@@ -135,7 +135,16 @@ This is a template project using Node.js and TypeScript, following a hexagonal a
 
 #### [Data Science Federco Garay](https://github.com/jcarloshg/data-science-federco-garay)
 
-A collection of data science notebooks and experiments, exploring various data analysis and machine learning techniques.
+This repository contains comprehensive learning materials for a complete Data Science course using Python. The course covers fundamental to advanced topics in data analysis, visualization, and machine learning.
+
+**Key Technologies & Features:**
+- 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn, 📓 Jupyter Notebooks
+- 🗃️ DataFrames, 📑 Series, 🧹 Data Cleaning, 🔗 Merging & Joining, 🕒 Time Series, 🧮 Array Operations
+- 📉 Linear Regression, 🔍 Logistic Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders
+- 📂 CSV Import/Export, 📄 XML Handling, 🗂️ Real-world Datasets, 📝 Hands-on Projects, 🏆 Integration Exercises
+- 🛠️ Technologies: Python 3.x, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks
+- 📊 Real-world datasets and integration projects for practical experience
+- 📖 Additional resources and documentation links included
 
 ### Databases
 
