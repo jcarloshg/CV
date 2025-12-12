@@ -131,6 +131,12 @@ This is a template project using Node.js and TypeScript, following a hexagonal a
 
 - 🐳 Docker, 🐘 Postgres, ⚡ Express, 🟩 Node.js, 🟦 TypeScript, 🛡️ Zod, 🧪 Jest
 
+### Data Science
+
+#### [Data Science Federco Garay](https://github.com/jcarloshg/data-science-federco-garay)
+
+A collection of data science notebooks and experiments, exploring various data analysis and machine learning techniques.
+
 ### Databases
 
 ### [🗃️ Test with SQL](https://github.com/jcarloshg/test-with-sql)
