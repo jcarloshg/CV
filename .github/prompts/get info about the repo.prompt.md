@@ -17,4 +17,4 @@ DON'T CONTINUE UNTIL THE {{ repository_url }} IS PROVIDED.
    - **Key Technologies & Features:** such these:
       - 🛑 Domain Driven Design, 🧪 Unit Testing, 🏗️ Clean Architecture, 🗄️ JPA Persistence, ✅ Validation, 🚨 Exception Handling
     - 🐳 Docker, 🐘 PostgreSQL, 🧪 H2 (dev/test), 🍃 Lombok, 🌱 Spring Boot, 🔄 MapStruct, 🧪 JUnit
-3. Put at the bottom the information in the `./CV/05.pro.md` file.
+3. Put at the bottom the information in the file 05.pro.md
