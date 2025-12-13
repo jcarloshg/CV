@@ -15,9 +15,7 @@
 
 ## About me
 
-Full-Stack Developer with 4 years and Tech Lead with 1 years of experience. Developing quality products from Front-End applications (web and
-mobile) to Back-End systems, supported and powered by cloud infrastructure. Brings leadership experience as a Tech Lead, making Design
-Software Architecture decisions and mentoring developers to ensure project success
+**_Software Engineer_** with 5 years of experience and **_Tech Lead_** for 1 year. Specialized in **_Architectural Patterns_** such as **Event-Driven Architecture, Microservices, CQRS, etc.**, applying **Scrum and DDD** approaches. Experienced with stacks like **TypeScript/Node.js, Java/Spring Boot, Python/FastAPI**. **_Leading_** the development and maintainability of scalable products, aligning development with business strategy. **_Managing communication_** with stakeholders and **_Guiding/Mentoring_** FullStack teams. Focused on designing and building **scalable, high-availability systems** based on **Software Architecture principles**, aligning development and architecture with business objectives to **ensure value delivery** to the end customer.
 
 - 🌱 I’m currently learning: Data Science
 - ⚡ Fun fact: I like to ride on motorcycle
@@ -138,6 +136,7 @@ This is a template project using Node.js and TypeScript, following a hexagonal a
 This repository contains comprehensive learning materials for a complete Data Science course using Python. The course covers fundamental to advanced topics in data analysis, visualization, and machine learning.
 
 **Key Technologies & Features:**
+
 - 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn, 📓 Jupyter Notebooks
 - 🗃️ DataFrames, 📑 Series, 🧹 Data Cleaning, 🔗 Merging & Joining, 🕒 Time Series, 🧮 Array Operations
 - 📉 Linear Regression, 🔍 Logistic Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders
