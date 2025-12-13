@@ -22,50 +22,50 @@ The following technical skills are showcased throughout the portfolio projects:
 
 #### Programming Languages
 
-- **TypeScript**, **JavaScript**, **Python**, **Java**, **SQL**, **C++**, **C**, **C#**, **Bash/Zsh**
+- 🟦 **TypeScript**, 🟨 **JavaScript**, 🟩 **Python**, ☕ **Java**, 🐘 **SQL**, 💻 **C++**, 💻 **C**, 🟪 **C#**, 🖥️ **Bash/Zsh**
 
 #### Frameworks & Libraries
 
-- **Back-End:** Spring Boot, NestJS, Express.js, FastAPI
-- **Front-End:** React, Angular, Next.js
-- **Mobile:** React Native, Expo, Flutter
-- **Data Science:** Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **UI & Utilities:** TailwindCSS, Three.js, TanStack
+- **Back-End:** ☕ Spring Boot, 🟦 NestJS, ⚡ Express.js, 🟩 FastAPI
+- **Front-End:** ⚛️ React, 🅰️ Angular, ⏭️ Next.js
+- **Mobile:** 📱 React Native, 🚀 Expo, 🦋 Flutter
+- **Data Science:** 📓 Jupyter Notebooks, 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn
+- **UI & Utilities:** 🌈 TailwindCSS, 🧊 Three.js, 🟧 TanStack
 
 #### Architectural Patterns
 
-- **CQRS**, **Domain-Driven Design (DDD)**, **Clean Architecture**, **Hexagonal Architecture**, **Microservices**, **Event-Driven Architecture**, **Criteria Pattern**
+- 🏗️ **CQRS**, 🛑 **Domain-Driven Design (DDD)**, 🏗️ **Clean Architecture**, 🛡️ **Hexagonal Architecture**, 🧩 **Microservices**, 🔄 **Event-Driven Architecture**, 🖱️ **Criteria Pattern**
 
 #### Databases & Persistence
 
-- **Relational:** PostgreSQL, MySQL, SQLite
-- **NoSQL:** MongoDB, DynamoDB
-- **ORMs:** Prisma, JPA, Spring Data JDBC/JPA
+- **Relational:** 🐘 PostgreSQL, 🐬 MySQL, 🗄️ SQLite
+- **NoSQL:** 🍃 MongoDB, ☁️ DynamoDB
+- **ORMs:** 🔌 Prisma, 🛡️ JPA, 🟦 Spring Data JDBC/JPA
 
 #### DevOps & Infrastructure
 
-- **Containers:** Docker, Docker Compose, Kubernetes
-- **Cloud:** AWS (CDK, CloudFormation, VPC, ELB, ASG, Lambda, Route 53, Cognito, Secrets Manager, CodePipeline, SQS, SNS, IAM, EC2, RDS, S3, CLI)
-- **CI/CD:** GitHub Actions, Tekton, CI/CD pipelines
+- **Containers:** 🐳 Docker, 🐳 Docker Compose, ☸️ Kubernetes
+- **Cloud:** ☁️ AWS (🛠️ CDK, 🏗️ CloudFormation, 🌐 VPC, ⚖️ ELB, 🔄 ASG, 🦾 Lambda, 🌍 Route 53, 🛡️ Cognito, 🔒 Secrets Manager, 🔗 CodePipeline, 📬 SQS, 📢 SNS, 👤 IAM, 🖥️ EC2, 🐘 RDS, 🗂️ S3, 💻 CLI)
+- **CI/CD:** 🤖 GitHub Actions, 🛠️ Tekton, 🔄 CI/CD pipelines
 
 #### Messaging & Integration
 
-- **Apache Kafka**, **WebSocket**, **REST API**, **TCP Microservices**, **Message Patterns**
+- 🦄 **Apache Kafka**, 🌐 **WebSocket**, 🔗 **REST API**, 🔌 **TCP Microservices**, 📨 **Message Patterns**
 
 #### Testing & Quality
 
-- **Testing Types:** Unit, Integration, End-to-End, Acceptance
-- **Frameworks:** Pytest, JUnit, Jest
-- **Practices:** Health Checks
+- **Testing Types:** 🧪 Unit, 🔗 Integration, 🧪 End-to-End, ✅ Acceptance
+- **Frameworks:** 🧪 Pytest, 🧪 JUnit, 🧪 Jest
+- **Practices:** ❤️‍🩹 Health Checks
 
 #### Data Science & Analytics
 
-- **Techniques:** Machine Learning (Regression, Decision Trees, Random Forests, K-Means, PCA, Autoencoders), Data Cleaning, DataFrames, Time Series Analysis
+- **Techniques:** 🤖 Machine Learning (📉 Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders), 🧹 Data Cleaning, 🗃️ DataFrames, 🕒 Time Series Analysis
 
 #### Other Tools & Ecosystem
 
-- **Version Control:** Git, GitHub, Bitbucket
-- **Design & Productivity:** Figma, NPM, Nodemon, Zod, MapStruct, Lombok, CORS, Lucide React
+- **Version Control:** 🐙 Git, 🐱 GitHub, 🦑 Bitbucket
+- **Design & Productivity:** 🎨 Figma, 📦 NPM, 🔄 Nodemon, 🛡️ Zod, 🔄 MapStruct, 🍃 Lombok, 🔒 CORS, 💡 Lucide React
 
 ## Projects
 
