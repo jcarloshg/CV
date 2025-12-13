@@ -1,14 +1,10 @@
 <h1 align="center">
-  Hi 👋, I'm Jose Carlos Huerta Garcia
+  Jose Carlos Huerta Garcia
 </h1>
 
-<h3 align="center">
-  I'm a Fullstack Developer
-</h3>
+**_Software Engineer_** with 5 years of experience and **_Tech Lead_** for 1 year.
 
-<h4>
-  📫 How to reach me
-</h4>
+## 📫 How to reach me
 
 - carlosj12336@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/)
@@ -204,6 +200,23 @@ A repository dedicated to exploring and testing various SQL features and functio
 
 - 🔍 FULLTEXT Search Implementation
   - 🐬 MySQL, 🐳 Docker
+
+## Certifications
+
+- [CQRS: Command Query Responsibility Segregation](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications/) Codely, October 2025
+- [Introduction to Amazon Virtual Private Cloud (VPC)](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications/) Amazon Web Services (AWS), August 2025
+- [Introduction to Agile Development and Scrum](https://www.coursera.org/account/accomplishments/verify/D02Q5G7CT9H5) IBM (Coursera), July 2025
+- [Ultimate Docker](https://academia.holamundo.io/certificates/fifvbfywmp) HolaMundo, July 2025
+- [Ultimate Linux](https://academia.holamundo.io/certificates/lsv1rybd6k) HolaMundo, July 2025
+- [TanStack Query - Un poderoso gestor de estado asíncrono.](https://cursos.devtalles.com/certificates/80vdvpk0jq) DevTalles, July 2025
+- [Architectura Hexagonal](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications/1758852008410/single-media-viewer/?profileId=ACoAADXjsscBqtjtdk4S_qpdkHwZsFn9y9TiG0o) HolaMundo, April 2023
+- Design and Analysis of Algorithms | BUAP, July 2025
+- Design Patterns in Java and PHP | BUAP, July 2025
+
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/programs/knu-high-o3k80/learn/continuous-integration-and-continuous-delivery-ci-cd?source=search) IBM, Ongoing.
+- [OKR Certification: Leadership and Goal Setting](https://www.coursera.org/learn/okr) Measure What Matters, Ongoing.
+- [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) IBM, Ongoing.
+- [Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science) IBM, Ongoing.
 
 <!--
 ### Full Stack projects
