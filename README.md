@@ -2,9 +2,9 @@
   Jose Carlos Huerta Garcia
 </h1>
 
-**_Software Engineer_** with 5 years of experience and **_Tech Lead_** for 1 year.
-
-## 📫 How to reach me
+<p align="center">
+  <strong><em>Software Engineer</em></strong> with 5 years of experience and <strong><em>Tech Lead</em></strong> for 1 year.
+</p>
 
 - carlosj12336@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/)
