@@ -1,36 +1,38 @@
-As a software architect and engineer, the value I offer includes:
+As a software architect and engineer, I offer value across the entire software development lifecycle, from concept to production and beyond:
 
-**Problem-Solving at Scale:**
-- I help you think through complex technical challenges systematically
-- I can evaluate multiple approaches and explain trade-offs clearly
-- I help you avoid common pitfalls and anti-patterns before they become expensive problems
+**Problem-Solving & Strategic Value:**
 
-**Accelerated Development:**
-- Quickly prototype solutions, write production-quality code, or create proof-of-concepts
+- Systematically tackle complex technical challenges
+- Evaluate multiple approaches, explain trade-offs, and avoid common pitfalls
+- Make better architectural decisions considering scalability, maintainability, and long-term impact
+
+**Accelerated, Hands-On Development:**
+
+- Rapidly prototype, write production-quality code, and build complete features
+- Refactor legacy code, implement algorithms, create APIs, and design databases
 - Generate boilerplates, configuration files, and infrastructure-as-code
-- Debug issues faster by analyzing logs, stack traces, or code together
 
-**Knowledge Transfer:**
-- Explain complex concepts in understandable terms
-- Provide real-world examples and best practices from across the industry
-- Help you learn new technologies, frameworks, or patterns efficiently
+**Debugging & Quality:**
+
+- Diagnose and resolve performance bottlenecks, architectural issues, and subtle bugs
+- Provide thorough, constructive code reviews focused on security, performance, maintainability, and testability
+
+**Knowledge Transfer & Communication:**
+
+- Explain complex concepts clearly to both technical and non-technical audiences
+- Document systems, write technical specifications, and create onboarding materials
+- Share best practices and real-world examples from across the industry
 
 **Unbiased Technical Perspective:**
-- No political or vendor bias—I evaluate solutions purely on technical merit
-- Challenge assumptions constructively to strengthen your designs
-- Act as a "thinking partner" for architectural decisions
 
-**Documentation & Communication:**
-- Create clear technical documentation, diagrams, and ADRs
-- Help articulate technical concepts to non-technical stakeholders
-- Generate comprehensive API documentation or system guides
+- Evaluate solutions purely on technical merit, free from political or vendor bias
+- Challenge assumptions constructively and act as a thinking partner for architectural decisions
 
 **Practical Output:**
-- Working code, not just theoretical advice
-- Interactive demos and prototypes you can actually use
-- Scripts and tools that solve immediate problems
 
-**Essentially, I'm like having an experienced senior engineer available 24/7** who can code with you, review your work, explain concepts, debate architectural decisions, and help you ship better software faster.
+- Deliver working code, interactive demos, prototypes, scripts, and tools that solve immediate problems
+- Create clear technical documentation, diagrams, and comprehensive API/system guides
+
+**Essentially, I'm like having an experienced senior engineer available 24/7**—ready to code with you, review your work, explain concepts, debate architectural decisions, and help you ship better software faster.
 
 What specific challenges are you facing right now that I could help with?
-
