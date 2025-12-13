@@ -16,6 +16,17 @@
 - 🌱 I’m currently learning: Data Science
 - ⚡ Fun fact: I like to ride on motorcycle
 
+## 🗂️ Index
+
+- [🛠️ Technical Skills](#️-technical-skills)
+- [📂 Projects](#projects)
+  - [System Design](#system-design)
+  - [Software architecture](#software-architecture)
+  - [Templates](#templates)
+  - [Data Science](#data-science)
+  - [Databases](#databases)
+- [🏅 Certifications](#certifications)
+
 ## 🛠️ Technical Skills
 
 The following technical skills are showcased throughout the portfolio projects:
@@ -67,7 +78,7 @@ The following technical skills are showcased throughout the portfolio projects:
 - **Version Control:** 🐙 Git, 🐱 GitHub, 🦑 Bitbucket
 - **Design & Productivity:** 🎨 Figma, 📦 NPM, 🔄 Nodemon, 🛡️ Zod, 🔄 MapStruct, 🍃 Lombok, 🔒 CORS, 💡 Lucide React
 
-## Projects
+## 📂 Projects
 
 ### System Design
 
@@ -201,7 +212,7 @@ A repository dedicated to exploring and testing various SQL features and functio
 - 🔍 FULLTEXT Search Implementation
   - 🐬 MySQL, 🐳 Docker
 
-## Certifications
+## 🏅 Certifications
 
 - [CQRS: Command Query Responsibility Segregation](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications/) Codely, October 2025
 - [Introduction to Amazon Virtual Private Cloud (VPC)](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications/) Amazon Web Services (AWS), August 2025
