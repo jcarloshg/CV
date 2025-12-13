@@ -2,12 +2,18 @@
   Jose Carlos Huerta Garcia
 </h1>
 
+
 <p align="center">
   <strong><em>Software Engineer</em></strong> with 5 years of experience and <strong><em>Tech Lead</em></strong> for 1 year.
 </p>
 
+<p align="center">
+  carlosj12336@gmail.com | <a href="https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/">LinkedIn</a>
+</p>
+
+<!-- 
 - carlosj12336@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/)
+- [LinkedIn](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/) -->
 
 ## 👨‍💻 About me
 
@@ -18,7 +24,7 @@
 
 ## 🗂️ Index
 
-- [🛠️ Technical Skills](#️-technical-skills)
+- [🛠️ Skills](#️-technical-skills)
 - [📂 Projects](#projects)
   - [System Design](#system-design)
   - [Software architecture](#software-architecture)
@@ -27,7 +33,7 @@
   - [Databases](#databases)
 - [🏅 Certifications](#certifications)
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 The following technical skills are showcased throughout the portfolio projects:
 
