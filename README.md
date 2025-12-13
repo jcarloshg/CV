@@ -9,22 +9,22 @@
 - carlosj12336@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/)
 
-## About me
+## 👨‍💻 About me
 
 **_Software Engineer_** with 5 years of experience and **_Tech Lead_** for 1 year. Specialized in **_Architectural Patterns_** such as **Event-Driven Architecture, Microservices, CQRS, etc.**, applying **Scrum and DDD** approaches. Experienced with stacks like **TypeScript/Node.js, Java/Spring Boot, Python/FastAPI**. **_Leading_** the development and maintainability of scalable products, aligning development with business strategy. **_Managing communication_** with stakeholders and **_Guiding/Mentoring_** FullStack teams. Focused on designing and building **scalable, high-availability systems** based on **Software Architecture principles**, aligning development and architecture with business objectives to **ensure value delivery** to the end customer.
 
 - 🌱 I’m currently learning: Data Science
 - ⚡ Fun fact: I like to ride on motorcycle
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 The following technical skills are showcased throughout the portfolio projects:
 
-### Programming Languages
+#### Programming Languages
 
 - **TypeScript**, **JavaScript**, **Python**, **Java**, **SQL**, **C++**, **C**, **C#**, **Bash/Zsh**
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 
 - **Back-End:** Spring Boot, NestJS, Express.js, FastAPI
 - **Front-End:** React, Angular, Next.js
@@ -32,37 +32,37 @@ The following technical skills are showcased throughout the portfolio projects:
 - **Data Science:** Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **UI & Utilities:** TailwindCSS, Three.js, TanStack
 
-### Architectural Patterns
+#### Architectural Patterns
 
 - **CQRS**, **Domain-Driven Design (DDD)**, **Clean Architecture**, **Hexagonal Architecture**, **Microservices**, **Event-Driven Architecture**, **Criteria Pattern**
 
-### Databases & Persistence
+#### Databases & Persistence
 
 - **Relational:** PostgreSQL, MySQL, SQLite
 - **NoSQL:** MongoDB, DynamoDB
 - **ORMs:** Prisma, JPA, Spring Data JDBC/JPA
 
-### DevOps & Infrastructure
+#### DevOps & Infrastructure
 
 - **Containers:** Docker, Docker Compose, Kubernetes
 - **Cloud:** AWS (CDK, CloudFormation, VPC, ELB, ASG, Lambda, Route 53, Cognito, Secrets Manager, CodePipeline, SQS, SNS, IAM, EC2, RDS, S3, CLI)
 - **CI/CD:** GitHub Actions, Tekton, CI/CD pipelines
 
-### Messaging & Integration
+#### Messaging & Integration
 
 - **Apache Kafka**, **WebSocket**, **REST API**, **TCP Microservices**, **Message Patterns**
 
-### Testing & Quality
+#### Testing & Quality
 
 - **Testing Types:** Unit, Integration, End-to-End, Acceptance
 - **Frameworks:** Pytest, JUnit, Jest
 - **Practices:** Health Checks
 
-### Data Science & Analytics
+#### Data Science & Analytics
 
 - **Techniques:** Machine Learning (Regression, Decision Trees, Random Forests, K-Means, PCA, Autoencoders), Data Cleaning, DataFrames, Time Series Analysis
 
-### Other Tools & Ecosystem
+#### Other Tools & Ecosystem
 
 - **Version Control:** Git, GitHub, Bitbucket
 - **Design & Productivity:** Figma, NPM, Nodemon, Zod, MapStruct, Lombok, CORS, Lucide React
