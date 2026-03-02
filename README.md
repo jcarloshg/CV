@@ -27,7 +27,6 @@ Focused on designing and building **scalable, high-availability systems** based 
 
 ## 🗂️ Index
 
-- [🛠️ Skills](#-skills)
 - [📂 Projects](#-projects)
   - [🤖 AI Engineering](#-ai-engineering---projects)
   - [🛠️ System Design](#system-design)
@@ -35,7 +34,6 @@ Focused on designing and building **scalable, high-availability systems** based 
   - [📋 Templates](#templates)
   - [📊 Data Science](#data-science)
   - [🗃️ Databases](#databases)
-- [🏅 Certifications](#certifications)
 
 ## 🛠️ Skills
 
