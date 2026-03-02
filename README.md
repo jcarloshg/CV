@@ -2,7 +2,6 @@
   Jose Carlos Huerta Garcia
 </h1>
 
-
 <p align="center">
   <strong><em>Software Engineer</em></strong> with 5 years of experience and <strong><em>Tech Lead</em></strong> for 1 year.
 </p>
@@ -11,13 +10,17 @@
   carlosj12336@gmail.com | <a href="https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/">LinkedIn</a>
 </p>
 
-<!-- 
+<!--
 - carlosj12336@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/) -->
 
 ## 👨‍💻 About me
 
-**_Software Engineer_** with 5 years of experience and **_Tech Lead_** for 1 year. Specialized in **_Architectural Patterns_** such as **Event-Driven Architecture, Microservices, CQRS, etc.**, applying **Scrum and DDD** approaches. Experienced with stacks like **TypeScript/Node.js, Java/Spring Boot, Python/FastAPI**. **_Leading_** the development and maintainability of scalable products, aligning development with business strategy. **_Managing communication_** with stakeholders and **_Guiding/Mentoring_** FullStack teams. Focused on designing and building **scalable, high-availability systems** based on **Software Architecture principles**, aligning development and architecture with business objectives to **ensure value delivery** to the end customer.
+Specialized in **_Architectural Patterns_** such as **Event-Driven Architecture, Microservices, CQRS, etc.**, applying **Scrum and DDD** approaches. Experienced with stacks like **TypeScript/Node.js, Java/Spring Boot, Python/FastAPI**.
+
+**_Leading_** the development and maintainability of scalable products, aligning development with business strategy. **_Managing communication_** with stakeholders and **_Guiding/Mentoring_** FullStack teams.
+
+Focused on designing and building **scalable, high-availability systems** based on **Software Architecture principles**, aligning development and architecture with business objectives to **ensure value delivery** to the end customer.
 
 - 🌱 I’m currently learning: Data Science
 - ⚡ Fun fact: I like to ride on motorcycle
@@ -46,7 +49,7 @@ The following technical skills are showcased throughout the portfolio projects:
 - **Back-End:** ☕ Spring Boot, 🟦 NestJS, ⚡ Express.js, 🟩 FastAPI
 - **Front-End:** ⚛️ React, 🅰️ Angular, ⏭️ Next.js
 - **Mobile:** 📱 React Native, 🚀 Expo, 🦋 Flutter
-- **Data Science:** 📓 Jupyter Notebooks, 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn
+- **Data Science:** 📓 Jupyter Notebooks, 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn, 🔗 LangChain
 - **UI & Utilities:** 🌈 TailwindCSS, 🧊 Three.js, 🟧 TanStack
 
 #### Architectural Patterns
@@ -62,7 +65,7 @@ The following technical skills are showcased throughout the portfolio projects:
 #### DevOps & Infrastructure
 
 - **Containers:** 🐳 Docker, 🐳 Docker Compose, ☸️ Kubernetes
-- **Cloud:** ☁️ AWS (🛠️ CDK, 🏗️ CloudFormation, 🌐 VPC, ⚖️ ELB, 🔄 ASG, 🦾 Lambda, 🌍 Route 53, 🛡️ Cognito, 🔒 Secrets Manager, 🔗 CodePipeline, 📬 SQS, 📢 SNS, 👤 IAM, 🖥️ EC2, 🐘 RDS, 🗂️ S3, 💻 CLI)
+- **Cloud:** ☁️ AWS (🛠️ CDK, 🏗️ CloudFormation, 🌐 VPC, ⚖️ ELB, 🔄 ASG, 🦾 Lambda, 🌍 Route 53, 🛡️ Cognito, 🔒 Secrets Manager, 🔗 CodePipeline, 📬 SQS, 📢 SNS, 👤 IAM, 🖥️ EC2, 🐘 RDS, 🗂️ S3, 💻 CLI, 🪨 Bedrock)
 - **CI/CD:** 🤖 GitHub Actions, 🛠️ Tekton, 🔄 CI/CD pipelines
 
 #### Messaging & Integration
@@ -75,18 +78,68 @@ The following technical skills are showcased throughout the portfolio projects:
 - **Frameworks:** 🧪 Pytest, 🧪 JUnit, 🧪 Jest
 - **Practices:** ❤️‍🩹 Health Checks
 
-#### Data Science & Analytics
-
-- **Techniques:** 🤖 Machine Learning (📉 Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders), 🧹 Data Cleaning, 🗃️ DataFrames, 🕒 Time Series Analysis
-
 #### Other Tools & Ecosystem
 
 - **Version Control:** 🐙 Git, 🐱 GitHub, 🦑 Bitbucket
 - **Design & Productivity:** 🎨 Figma, 📦 NPM, 🔄 Nodemon, 🛡️ Zod, 🔄 MapStruct, 🍃 Lombok, 🔒 CORS, 💡 Lucide React
 
-## 📂 Projects
+## 🤖 AI Engineering - Projects
+
+#### AI & LLM Engineering
+
+- 🔗 **LangChain Ecosystem:** 🦜🔗 LangChain, 🌍 LangChain Community, 🧠 LangChain Core, 🦙 LangChain Ollama
+- 📚 **RAG (Retrieval-Augmented Generation):** Vector Databases, Embeddings, Chunking Strategies
+- 🪨 **AWS Bedrock:** Claude, Llama
+- ⚙️ **LLMOps:** Prompt Engineering, Model Fine-tuning, Evaluation Metrics
+- 📈 **MLOps & Experiment Tracking:** MLflow, Model Registry, Experiment Tracking
+- 🦙 **Ollama:** Local LLM Deployment, Model Management
+
+#### Data Science & Analytics
+
+- **Techniques:** 🤖 Machine Learning (📉 Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders)
+- 🧹 Data Cleaning, 🗃️ DataFrames, 🕒 Time Series Analysis
+
+### [Wine Quality Prediction - MLOps Project](https://github.com/jcarloshg/Wine-Quality-Prediction--MLOps)
+
+- This project implements an end-to-end MLOps pipeline for predicting red wine quality using chemical properties.
+
+##### Key benefits
+
+1. **Automated ML Pipeline**: End-to-end workflow from data loading to model deployment
+2. **Multi-Model Training**: Trains and compares 4 regression algorithms simultaneously
+3. **Experiment Tracking**: MLflow integration for reproducibility and comparison
+4. **Model Versioning**: Automatic model registration with champion/production aliases
+5. **REST API**: Production-ready Flask API with health checks and batch predictions
+6. **Prediction Logging**: Tracks all predictions for drift detection and monitoring
+7. **Comprehensive Testing**: Unit tests, integration tests, and API tests included
+
+- 🔄 **MLOps & Tracking**: MLflow 2.16.2, 🗄️ SQLite Backend, 📦 Model Registry, 🎯 Experiment Tracking
+- 🤖 **Machine Learning**: scikit-learn 1.4.0, 🐼 Pandas 2.1.4, 🔢 NumPy 1.26.3, 🧮 StandardScaler
+- 📊 **Visualization**: Matplotlib 3.8.2, 🎨 Seaborn 0.13.0, 📈 Feature Importance Plots
+- 🌶️ **API & Serving**: Flask 3.0.0, 🦄 Gunicorn 21.2.0, 🔌 REST Endpoints, ✅ Health Checks
+- 🐳 **Deployment**: Docker, 🐙 Docker Compose, 🏗️ Multi-Container Orchestration
+- 🧪 **Testing**: pytest 7.4.3, 🌐 requests 2.31.0, 📝 Integration Tests, 🔍 API Testing
+- ⚙️ **Configuration**: python-dotenv 1.0.0, 📋 YAML Config, 🔧 Environment Variables
 
 ### System Design
+
+#### [🚦 Distributed Rate Limiter: High-Concurrency, Flash-Sale Proof 🛡️](https://github.com/jcarloshg/BuyingTickets-DistributedRateLimiter)
+
+This project implements a Distributed Rate Limiter built for high-concurrency and resilience in scenarios like "Flash Sales" where bot-driven inventory hoarding is likely, ensuring both performance and fairness.
+
+##### Key benefits
+
+1. **Distributed, Atomic Rate Limiting:** Enforces limits safely across all instances using Redis; all increments and expiries are done atomically.
+2. **Multi-Route, Multi-Algorithm Ready:** Different rate limiting logic (window, token bucket, queue) can be swapped or stacked per route.
+3. **Battle-Tested for Flash Sales:** Special attention to /pay-ticket flows, queue logic, and anti-bot pressure valve for inventory saving.
+4. **Pluggable Backends:** Redis used out of the box, but storage is pluggable via Adapter pattern for future scalability (SQL, cloud).
+5. **Vertical Slice & Clean Separation:** Business, infrastructure, and framework code are cleanly separated (easy to test, extend, and maintain).
+6. **Comprehensive Middleware Chaining:** Auth, validation, and rate limiting applied in explicit order per endpoint keeping critical paths safe.
+7. **Container-First:** Dockerfile and docker-compose provide instant multi-instance cluster and dependency setup (Redis included).
+8. **Type-Safe, Validated IO:** All API inputs validated by zod and Typescript, ensuring correct usage and safer backend logic.
+
+- 🏛️ Domain Driven Design, 🧩 Modular Layers, 🧪 Unit Testing, ✅ Input Validation (Zod), 🚨 Exception Handling, 🏗️ Vertical Slice, 🔒 JWT Auth
+- 🐳 Docker Compose, 🔴 Redis (Distributed Atomic Limiting), 🟫 Express, 🌐 Axios, 🧬 Zod, 🧪 Jest, 🟩 Nodemon, 📦 Typescript
 
 #### [Patient Health Record (PHR) System](https://github.com/jcarloshg/Patient-Health-Record--DataBaseReplication)
 

@@ -6,9 +6,9 @@ I'm an IT professional looking to optimize my CV/resume to pass ATS filters and 
 
 **My Context:**
 
-- Target role: [Software Engineer / DevOps / Data Scientist / etc.]
-- Experience level: [Junior / Mid / Senior]
-- Industry: [Tech startup / Enterprise / Consulting / etc.]
+- Target role: Software Engineer
+- Experience level: Senior
+- Industry: [Tech startup / Enterprise / Consulting]
 
 ---
 
