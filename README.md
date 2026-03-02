@@ -27,8 +27,9 @@ Focused on designing and building **scalable, high-availability systems** based 
 
 ## 🗂️ Index
 
-- [🛠️ Skills](#️-technical-skills)
-- [📂 Projects](#projects)
+- [🛠️ Skills](#-skills)
+- [📂 Projects](#-projects)
+  - [🤖 AI Engineering](#-ai-engineering---projects)
   - [System Design](#system-design)
   - [Software architecture](#software-architecture)
   - [Templates](#templates)
@@ -83,9 +84,7 @@ The following technical skills are showcased throughout the portfolio projects:
 - **Version Control:** 🐙 Git, 🐱 GitHub, 🦑 Bitbucket
 - **Design & Productivity:** 🎨 Figma, 📦 NPM, 🔄 Nodemon, 🛡️ Zod, 🔄 MapStruct, 🍃 Lombok, 🔒 CORS, 💡 Lucide React
 
-## 🤖 AI Engineering - Projects
-
-#### AI & LLM Engineering
+#### AI Engineering
 
 - 🔗 **LangChain Ecosystem:** 🦜🔗 LangChain, 🌍 LangChain Community, 🧠 LangChain Core, 🦙 LangChain Ollama
 - 📚 **RAG (Retrieval-Augmented Generation):** Vector Databases, Embeddings, Chunking Strategies
@@ -99,7 +98,28 @@ The following technical skills are showcased throughout the portfolio projects:
 - **Techniques:** 🤖 Machine Learning (📉 Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders)
 - 🧹 Data Cleaning, 🗃️ DataFrames, 🕒 Time Series Analysis
 
-### [Wine Quality Prediction - MLOps Project](https://github.com/jcarloshg/Wine-Quality-Prediction--MLOps)
+## 📂 Projects
+
+### 🤖 AI Engineering - Projects
+
+#### [LLM Test Case Generation - Use Case Framework](https://github.com/jcarloshg/LLM--Test-for-UseCase)
+
+- This project implements a microservice that leverages LLMs to automatically generate structured test cases from user stories and project requirements. Using prompt engineering and validation techniques, the service produces JSON-formatted test artifacts with clear acceptance criteria, preconditions, and test steps.
+
+##### Key Features
+
+1. **LLMOps Framework**: 9-phase methodology for LLM application development (Problem Definition, Data Collection, Model Selection, Prompt Engineering, Evaluation, Deployment, Monitoring, Feedback)
+2. **Multi-Model Evaluation**: Compare Llama 3.2 (1B, 3B) and ChatQA 8B models with quality, latency, and cost metrics
+3. **Prompt Engineering**: Multiple prompt variants (RAG, Basic, Improved) with few-shot learning and structured output
+4. **Comprehensive Evaluation**: Structural compliance, quality scoring, latency tracking (P50, P90, P99), cost analysis
+5. **Observability**: MLflow for experiment tracking, Grafana dashboards, Loki log aggregation
+6. **Production-Ready API**: FastAPI with correlation IDs, health checks, structured JSON logging
+
+- 🏗️ Clean Architecture, 🛑 Domain Driven Design, 🧪 Unit Testing
+- 🟦 Python, 🟩 FastAPI, 🟧 Uvicorn, 🛡️ Pydantic, 🧠 LangChain, 🤖 Ollama, 📚 FAISS, 📊 MLflow
+- 🐳 Docker & Docker Compose, 🔥 NVIDIA CUDA, 📈 Loki, 📉 Grafana, 🧪 Pytest
+
+#### [Wine Quality Prediction - MLOps Project](https://github.com/jcarloshg/Wine-Quality-Prediction--MLOps)
 
 - This project implements an end-to-end MLOps pipeline for predicting red wine quality using chemical properties.
 
@@ -228,6 +248,26 @@ A Spring Boot application for registering and retrieving domain events. It provi
 
 🛑 Domain Driven Design, 🧪 Unit Testing, 🏗️ Clean Architecture, 🗄️ JPA Persistence, ✅ Validation, 🚨 Exception Handling
 🐳 Docker, 🐘 PostgreSQL, 🧪 H2 (dev/test), 🍃 Lombok, 🌱 Spring Boot, 🔄 MapStruct, 🧪 JUnit
+
+#### [📝 The Best ToDo Task - ToDo API](https://github.com/jcarloshg/TheBestToDoTask)
+
+A production-ready ToDo API built with Node.js, Express, and PostgreSQL. It provides secure user authentication using JWT tokens and complete Todo management with CRUD operations. The API implements Vertical Slice Architecture for maintainability and follows clean architecture principles with comprehensive API documentation via Swagger/OpenAPI.
+
+##### Key Features
+
+1. **JWT Authentication**: Token-based auth with access tokens (15 min) and refresh tokens (7 days)
+2. **Secure Password Hashing**: Argon2 algorithm for password security
+3. **Token Theft Detection**: Token family tracking and revocation
+4. **Complete CRUD Operations**: Create, Read, Update, Delete todos with filtering and pagination
+5. **Input Validation**: Zod schema validation for all endpoints
+6. **API Documentation**: Swagger/OpenAPI interactive documentation
+7. **Comprehensive Testing**: Acceptance tests with Jest, test coverage
+8. **Docker Support**: Containerized development and deployment
+
+- 🏗️ Vertical Slice Architecture, 🛑 Domain Driven Design, 🧪 Unit Testing, ✅ Acceptance Test
+- 🟦 Node.js 20+, 🟦 TypeScript 5.3+, ⚡ Express.js 4.18+, 🐘 PostgreSQL 16+
+- 🔌 Sequelize ORM, 🔐 JWT (jsonwebtoken), 🔒 Argon2, 🛡️ Zod, 📖 Swagger/OpenAPI
+- 🧪 Jest, 🐳 Docker & Docker Compose, 📦 NPM
 
 ### Software architecture
 
