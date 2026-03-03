@@ -55,6 +55,7 @@ I'm an IT professional looking to optimize my CV/resume to pass ATS filters and 
 ### 5. Professional Summary Deep Dive ⭐ COMPREHENSIVE SECTION
 
 **A. Why Professional Summary Matters**
+
 - Critical importance for senior Software Engineer roles
 - Impact on ATS scoring: keyword front-loading strategy explained
 - The 6-second human recruiter scan: what they look for first
@@ -135,36 +136,43 @@ I'm an IT professional looking to optimize my CV/resume to pass ATS filters and 
 **E. Real-World Examples and Templates**
 
 - **Template 1 - Full-Stack Generalist:**
+
 ```
 Senior Software Engineer with [X] years architecting scalable [type] applications using [Tech Stack]. Led development of [specific project/platform] serving [scale metric] with [performance metric]. Proven track record [soft skill achievement] and driving [business outcome]. Seeking [target role] to leverage expertise in [specialties].
 ```
 
 - **Template 2 - Technical Specialist:**
+
 ```
 [Specialty] Engineer specializing in [niche/domain]. [X] years designing [type of systems] that [quantified business impact]. Expert in [key technologies] and [methodologies]. Known for [unique strength] and [soft skill achievement].
 ```
 
 - **Template 3 - Technical Leader:**
+
 ```
 Senior Engineering Leader with [X] years building high-performance teams and [type] applications. Architected systems [business impact metric] using [tech stack]. Combines deep technical expertise with [leadership quality] to drive [outcome]. Passionate about [values/focus areas].
 ```
 
 - **Real Example 1 - Full-Stack Focus:**
+
 ```
 Senior Software Engineer with 8+ years architecting scalable full-stack applications using React, Node.js, and AWS. Led development of microservices platform serving 2M+ users with 99.9% uptime. Proven track record mentoring cross-functional teams and driving technical strategy at high-growth startups. Seeking senior/staff role to leverage expertise in distributed systems and engineering leadership.
 ```
 
 - **Real Example 2 - Backend/Architecture Focus:**
+
 ```
 Solutions Architect and Senior Software Engineer specializing in cloud-native enterprise systems. 10+ years designing distributed architectures that reduced infrastructure costs by 40% while improving performance. Expert in .NET, Azure, Kubernetes, and microservices patterns. Known for translating complex business requirements into scalable technical solutions and mentoring engineering teams.
 ```
 
 - **Real Example 3 - Technical Leadership Focus:**
+
 ```
 Senior Software Engineering Leader with 12+ years building high-performance teams and enterprise-grade applications. Architected systems processing $50M+ in transactions using Java, Spring Boot, and AWS. Combines deep technical expertise with strategic vision to drive digital transformation initiatives. Passionate about engineering excellence, team development, and delivering measurable business impact.
 ```
 
 - **Real Example 4 - Specialist Focus (DevOps/SRE):**
+
 ```
 Senior DevOps Engineer with 9+ years automating infrastructure and improving deployment velocity. Built CI/CD pipelines reducing release time from 2 weeks to 2 hours while maintaining 99.95% uptime. Expert in Kubernetes, Terraform, AWS, and observability tooling. Led platform engineering initiatives serving 50+ development teams across multiple product lines.
 ```
@@ -172,39 +180,51 @@ Senior DevOps Engineer with 9+ years automating infrastructure and improving dep
 **F. Before/After Transformations**
 
 ❌ **WEAK Example 1 (Generic, vague, no metrics):**
+
 ```
 Experienced software engineer with strong programming skills. Proficient in multiple languages and frameworks. Team player with good communication skills. Looking for new opportunities to grow my career.
 ```
+
 **Problems:** No specifics, no metrics, focuses on wants not value, could apply to anyone, no technical depth
 
 ✅ **STRONG Version:**
+
 ```
 Senior Full-Stack Engineer with 9+ years building SaaS platforms using React, Python, and GCP. Architected systems supporting 500K+ daily active users and led migration reducing cloud costs by 35%. Expert in agile development, CI/CD automation, and mentoring engineering teams. Seeking staff engineer role to drive technical innovation at scale.
 ```
+
 **Why it works:** Specific technologies, quantified achievements, demonstrates leadership, clear direction
 
 ❌ **WEAK Example 2 (Too technical, no business impact):**
+
 ```
 Software engineer skilled in JavaScript, TypeScript, React, Vue, Angular, Node.js, Express, Python, Django, Java, Spring Boot, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS, GCP, Azure, and CI/CD. Experienced with agile methodologies.
 ```
+
 **Problems:** Laundry list without context, no achievements, overwhelming, no specialization shown
 
 ✅ **STRONG Version:**
+
 ```
 Senior Full-Stack Engineer specializing in React and Node.js ecosystems with 7+ years at scale. Rebuilt monolithic application into microservices architecture, improving deployment frequency by 10x and reducing P95 latency by 60%. Led technical design for features used by 2M+ monthly active users. Seeking principal engineer role to architect next-generation cloud platforms.
 ```
+
 **Why it works:** Shows specialization, business impact, scale, leadership, clear trajectory
 
 ❌ **WEAK Example 3 (Third person, adjective-heavy):**
+
 ```
 He is a highly motivated, detail-oriented software engineering professional with excellent problem-solving abilities and outstanding communication skills. A passionate technologist who thrives in fast-paced environments.
 ```
+
 **Problems:** Third person, all adjectives no evidence, no specifics, feels like a template
 
 ✅ **STRONG Version:**
+
 ```
 Backend Engineer with 6+ years optimizing high-throughput distributed systems. Redesigned payment processing pipeline handling 100K+ transactions/day, reducing failures by 85%. Mentored 5 junior engineers while driving adoption of test-driven development practices. Seeking senior role to build reliable, scalable infrastructure for fintech platforms.
 ```
+
 **Why it works:** First person implied, proof through achievements, specific domain, quantified impact
 
 **G. Common Mistakes to Avoid**
@@ -323,6 +343,7 @@ Backend Engineer with 6+ years optimizing high-throughput distributed systems. R
 **J. Checklists and Quality Control**
 
 **Pre-submission checklist:**
+
 - [ ] 50-80 words (3-5 lines)
 - [ ] Starts with exact target job title or close variant
 - [ ] Includes 5-8 keywords from job description
@@ -338,6 +359,7 @@ Backend Engineer with 6+ years optimizing high-throughput distributed systems. R
 - [ ] Ends with forward-looking statement
 
 **Quality test questions:**
+
 - Could this apply to 100 other candidates? (If yes, add specificity)
 - Does it pass the "so what?" test for each claim? (Add impact/context)
 - Would a non-technical recruiter understand the value? (Simplify jargon if needed)
@@ -404,6 +426,7 @@ Backend Engineer with 6+ years optimizing high-throughput distributed systems. R
 ---
 
 **Format Requirements:**
+
 - Use numbered lists with clear explanations
 - Include specific examples and formulas where applicable
 - Provide before/after comparisons for key concepts
@@ -413,7 +436,8 @@ Backend Engineer with 6+ years optimizing high-throughput distributed systems. R
 - Provide templates that can be directly customized
 - Include decision frameworks and flowcharts where helpful
 
-**Tone:** 
+**Tone:**
+
 - Practical, actionable advice
 - Direct and concise
 - Expert-level insights without jargon overload

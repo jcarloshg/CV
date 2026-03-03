@@ -1,11 +1,6 @@
-# create a new cv with latex:
+# Job Description - Full Stack Engineer
 
-## Inputs
-
-job_description:
-
-```txt
-What you will do
+## What you will do
 
 Develop and maintain backend services using Node.js, with emphasis on scalable, robust APIs.
 Build and support modern frontend applications using React.js/Next.js, ensuring responsive UI and accessible design.
@@ -14,7 +9,8 @@ Participate in system design, architecture decisions, and code reviews in a dist
 Integrate third-party APIs and AI services, including OpenAI API / LLM integrations, to power AI-driven features.
 Collaborate with product managers, designers, and other developers to deliver high-quality software on schedule.
 Contribute to CI/CD pipelines, containerization with Docker, and basic DevOps practices to improve delivery speed and reliability.
-Required skills and experience
+
+## Required skills and experience
 
 Strong experience with JavaScript and TypeScript in both backend (Node.js) and frontend (React.js/Next.js).
 Proficiency with Express.js or Nest.js and modern API design patterns (REST/GraphQL).
@@ -23,20 +19,13 @@ Frontend expertise in React, Redux, and TailwindCSS; ability to build responsive
 Familiarity with cloud platforms (AWS, GCP, Azure) and CI/CD practices; basic Docker and DevOps understanding.
 Experience integrating AI services and OpenAI API; interest in AI-powered features (chat, agents, automation, embeddings, RAG).
 Comfortable working in a distributed, collaborative environment with PMs and cross-functional teams.
-English proficiency for communication in international teams; proactive, self-motivated, and strong problem-solving skills.Nice to have Python development experience and data tooling.Prior exposure to AI/ML workflows and large language model integrations.
+English proficiency for communication in international teams; proactive, self-motivated, and strong problem-solving skills.
+
+## Nice to have
+
+Python development experience and data tooling.
+Prior exposure to AI/ML workflows and large language model integrations.
 Cloud-native design experience and advanced DevOps practices.
 Familiarity with testing strategies, QA automation, and performance optimization.
-What we offer
-```
 
-1. read the [job_description]
-2. read the /ATS/output/JoseCarlosHuertaGarciaENGMARCH2026.html
-3. README.md
-4. Crate a new CV latex file
-   4.1 Take as reference /ATS/output/JoseCarlosHuertaGarcia.tex
-   4.2 Take as referece the prompt /ATS/00,prompts/claude-v3.md
-   4.3 Don't add -> TECHNICAL SKILLS and PROJECTS
-5. crete the folder ATS/input/{{current_date_iso}}{{current-time-iso}}-{{role_name}}/
-   5.1 you must to save here the: cv latex called {{role_name}}-{{current_date_iso}}.tex
-   5.2 you must to save here the: pdf of cv latex called {{role_name}}-{{current_date_iso}}.pdf
-   5.3 you must to save here the: job-{{role_name}}.md
+## What we offer
