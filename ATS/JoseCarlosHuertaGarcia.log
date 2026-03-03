@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.2.11)  3 MAR 2026 10:57
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.2.11)  3 MAR 2026 10:59
  restricted system commands enabled.
 **output/JoseCarlosHuertaGarcia.tex
 (./output/JoseCarlosHuertaGarcia.tex
@@ -88,6 +88,27 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
+! Illegal parameter number in definition of \XC@@tmp.
+<to be read again> 
+4
+l.7 \color{#434343}
+                 
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+
+! Package xcolor Error: Undefined color `##434343'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \color{#434343}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
@@ -244,34 +265,35 @@ File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box53
 )
-No file JoseCarlosHuertaGarcia.aux.
-
+(./JoseCarlosHuertaGarcia.aux)
 \openout1 = JoseCarlosHuertaGarcia.aux
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-4.
+5.
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -321,19 +343,20 @@ LaTeX Font Info:    ... okay on input line 24.
 \makeMPintoPDFobject=\count282
 \everyMPtoPDFconversion=\toks23
 )
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
+ (./JoseCarlosHuertaGarcia.out) (./JoseCarlosHuertaGarcia.out)
 \@outlinefile=\write3
 
 \openout3 = JoseCarlosHuertaGarcia.out
 
-Overfull \hbox (0.13559pt too wide) in paragraph at lines 54--55
+Overfull \hbox (0.13559pt too wide) in paragraph at lines 55--56
 []\OT1/lmr/bx/n/10 Stake-holder Com-mu-ni-ca-tion\OT1/lmr/m/n/10 : Main-tained 
 project trans-parency by de-liv-er-ing pe-ri-odic progress pre-sen-ta-tions (sp
 rint
  []
 
 
-Overfull \hbox (5.01862pt too wide) in paragraph at lines 64--65
+Overfull \hbox (5.01862pt too wide) in paragraph at lines 65--66
 []\OT1/lmr/bx/n/10 Qual-ity Prac-tices\OT1/lmr/m/n/10 : Built REST-ful API in-t
 e-gra-tions and man-aged []\OT1/lmr/bx/n/10 NPM[] \OT1/lmr/m/n/10 pack-ages, ap
 -ply-ing []\OT1/lmr/bx/n/10 JavaScript[]\OT1/lmr/m/n/10 /[]\OT1/lmr/bx/n/10 Typ
@@ -348,24 +371,18 @@ eScript[]
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+Package rerunfilecheck Info: File `JoseCarlosHuertaGarcia.out' has not changed.
 
-
-Package rerunfilecheck Warning: File `JoseCarlosHuertaGarcia.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `JoseCarlosHuertaGarcia.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10131 strings out of 476553
- 156294,1977958 words of node,token memory allocated
+ 10149 strings out of 476553
+ 156290,1977958 words of node,token memory allocated
  393 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 53 glue_spec, 1 write nodes
-   avail lists: 2:23,3:423,4:313,5:1093,6:94,7:15698,8:2,9:481,10:9,11:1596
- 32006 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:23,3:423,4:316,5:1093,6:94,7:15698,8:2,9:481,10:9,11:1596
+ 32009 multiletter control sequences out of 65536+600000
  21 fonts using 881123 bytes
  72i,5n,75p,495b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvip
