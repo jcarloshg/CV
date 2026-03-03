@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.11)  3 MAR 2026 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.11)  3 MAR 2026 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/jcarloshg/Documents/school/CV/ATS/output/JoseCarlosHuertaGarcia
-(/home/jcarloshg/Documents/school/CV/ATS/output/JoseCarlosHuertaGarcia.tex
+**/home/jcarloshg/Documents/school/CV/ATS/input/2026-03-03T155945-Frontend/JoseCarlosHuerta-Frontend-2026-03-03
+(/home/jcarloshg/Documents/school/CV/ATS/input/2026-03-03T155945-Frontend/JoseCarlosHuerta-Frontend-2026-03-03.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -193,8 +193,8 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count278
 \l__pdf_internal_box=\box53
-) (./JoseCarlosHuertaGarcia.aux)
-\openout1 = `JoseCarlosHuertaGarcia.aux'.
+) (./JoseCarlosHuerta-Frontend-2026-03-03.aux)
+\openout1 = `JoseCarlosHuerta-Frontend-2026-03-03.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -264,33 +264,38 @@ LaTeX Font Info:    ... okay on input line 25.
 \everyMPtoPDFconversion=\toks22
 )
 Package hyperref Info: Link coloring OFF on input line 25.
- (./JoseCarlosHuertaGarcia.out) (./JoseCarlosHuertaGarcia.out)
+ (./JoseCarlosHuerta-Frontend-2026-03-03.out) (./JoseCarlosHuerta-Frontend-2026-03-03.out)
 \@outlinefile=\write3
-\openout3 = `JoseCarlosHuertaGarcia.out'.
+\openout3 = `JoseCarlosHuerta-Frontend-2026-03-03.out'.
 
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./JoseCarlosHuertaGarcia.aux)
+Overfull \hbox (5.462pt too wide) in paragraph at lines 80--83
+[][]\OT1/cmr/bx/n/10 CQRS[]\OT1/cmr/m/n/10 : Com-mand Query Re-spon-si-bil-ity Seg-re-ga-tion -- Codely, 2025 []\OT1/cmr/bx/n/10 Ag-ile De-vel-op-ment and Scrum[] \OT1/cmr/m/n/10 -- IBM/Coursera,
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./JoseCarlosHuerta-Frontend-2026-03-03.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `JoseCarlosHuertaGarcia.out' has not changed.
+Package rerunfilecheck Info: File `JoseCarlosHuerta-Frontend-2026-03-03.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9709 strings out of 476182
- 148307 string characters out of 5795595
- 1946975 words of memory out of 5000000
- 31637 multiletter control sequences out of 15000+600000
+ 9707 strings out of 476182
+ 148637 string characters out of 5795595
+ 1944975 words of memory out of 5000000
+ 31636 multiletter control sequences out of 15000+600000
  559970 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,5n,79p,632b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,660b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jcarloshg/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on JoseCarlosHuertaGarcia.pdf (2 pages, 83840 bytes).
+Output written on JoseCarlosHuerta-Frontend-2026-03-03.pdf (1 page, 80782 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 40 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

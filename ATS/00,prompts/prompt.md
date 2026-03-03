@@ -5,28 +5,45 @@
 job_description:
 
 ```txt
-What you will do
+Responsabilidades
 
-Develop and maintain backend services using Node.js, with emphasis on scalable, robust APIs.
-Build and support modern frontend applications using React.js/Next.js, ensuring responsive UI and accessible design.
-Work with relational and NoSQL databases (PostgreSQL, MySQL, MongoDB) and leverage ORMs (TypeORM, Sequelize, Mongoose) for efficient data access.
-Participate in system design, architecture decisions, and code reviews in a distributed team environment.
-Integrate third-party APIs and AI services, including OpenAI API / LLM integrations, to power AI-driven features.
-Collaborate with product managers, designers, and other developers to deliver high-quality software on schedule.
-Contribute to CI/CD pipelines, containerization with Docker, and basic DevOps practices to improve delivery speed and reliability.
-Required skills and experience
+Desarrollo Full Stack: Creación de páginas web, software tipo SaaS, aplicaciones web y aplicaciones móviles.
+Optimización con IA: Creación y mejora de herramientas basadas en IA para la optimización de procesos y flujos de trabajo.
+Desarrollo eficiente: Uso habitual de herramientas de IA como apoyo en el ciclo de desarrollo.
+Autonomía: Colaboración con el equipo y ejecución de proyectos de forma autónoma.
+Proactividad: Propuesta de soluciones técnicas y mejoras constantes.
+Requisitos
 
-Strong experience with JavaScript and TypeScript in both backend (Node.js) and frontend (React.js/Next.js).
-Proficiency with Express.js or Nest.js and modern API design patterns (REST/GraphQL).
-Databases: PostgreSQL, MySQL, MongoDB; practical experience with ORMs such as TypeORM, Sequelize, or Mongoose.
-Frontend expertise in React, Redux, and TailwindCSS; ability to build responsive, accessible user interfaces.
-Familiarity with cloud platforms (AWS, GCP, Azure) and CI/CD practices; basic Docker and DevOps understanding.
-Experience integrating AI services and OpenAI API; interest in AI-powered features (chat, agents, automation, embeddings, RAG).
-Comfortable working in a distributed, collaborative environment with PMs and cross-functional teams.
-English proficiency for communication in international teams; proactive, self-motivated, and strong problem-solving skills.Nice to have Python development experience and data tooling.Prior exposure to AI/ML workflows and large language model integrations.
-Cloud-native design experience and advanced DevOps practices.
-Familiarity with testing strategies, QA automation, and performance optimization.
-What we offer
+Perfil Full Stack: Base sólida en JavaScript / TypeScript (Next.js y NestJS).
+Experiencia con IA: Uso de IA aplicada al desarrollo (más allá de copiar código).
+Inglés: Buen nivel para mantener reuniones y comunicación fluida.
+Mentalidad: Perfil proactivo, colaborativo y con aprendizaje continuo.
+Por qué RSUNION
+
+Construirás productos reales, con libertad técnica, usando IA de verdad, con impacto directo en proyectos que se lanzan y se usan, y con oportunidades reales de crecimiento.
+
+¿Cómo aplicar?
+
+Escríbenos a maicol@rsunion.com adjuntando:
+
+Tu currículum.
+Ejemplos de proyectos desarrollados.
+Una breve explicación de hacia dónde quieres llevar tu carrera profesional.
+Tipo de puesto: Tiempo completo
+
+Sueldo: $10,000.00 - $30,000.00 al mes
+
+Beneficios:
+
+Apoyo para estudios
+Descuento de empleados
+Descuentos y precios preferenciales
+Horarios flexibles
+Trabajo desde casa
+Idioma:
+
+Inglés (Deseable)
+Lugar de trabajo: Empleo remoto
 ```
 
 1. read the [job_description]
@@ -36,7 +53,9 @@ What we offer
    4.1 Take as reference /ATS/output/JoseCarlosHuertaGarcia.tex
    4.2 Take as referece the prompt /ATS/00,prompts/claude-v3.md
    4.3 Don't add -> TECHNICAL SKILLS and PROJECTS
-5. crete the folder ATS/input/{{current_date_iso}}{{current-time-iso}}-{{role_name}}/
-   5.1 you must to save here the: cv latex called {{role_name}}-{{current_date_iso}}.tex
-   5.2 you must to save here the: pdf of cv latex called {{role_name}}-{{current_date_iso}}.pdf
-   5.3 you must to save here the: job-{{role_name}}.md
+5. crete the folder ATS/input/{{current_date_iso}}{{current time iso 8601-> hh:mm:ss}}-{{role_name}}/
+   5.1 you must use ENGLISH to write the CV files
+   5.2 add always the role like: {{Role name}} | Tech Lead
+   5.3 you must to save here the: cv latex called JoseCarlosHuerta-{{role_name}}-{{current_date_iso}}.tex
+   5.4 you must to save here the: pdf of cv latex called JoseCarlosHuerta-{{role_name}}-{{current_date_iso}}.pdf
+   5.5 you must to save here the: job-{{role_name}}.md
