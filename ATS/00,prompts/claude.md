@@ -8,7 +8,7 @@ I'm an IT professional looking to optimize my CV/resume to pass ATS filters and 
 
 - Target role: Software Engineer
 - Experience level: Senior
-- Industry: [Tech startup / Enterprise / Consulting]
+- Industry: Tech startup / Enterprise / Consulting
 
 ---
 
