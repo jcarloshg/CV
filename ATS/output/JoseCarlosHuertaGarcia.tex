@@ -1,9 +1,15 @@
 \documentclass[a4paper,10pt]{article}
 \usepackage[margin=0.5in]{geometry}
 \usepackage{enumitem}
+\usepackage{xcolor}
+\definecolor{keyword}{RGB}{0,90,170}
+\definecolor{tech}{RGB}{0,120,60}
 \usepackage{hyperref}
 \usepackage{fontenc}
 \usepackage{titlesec}
+
+\newcommand{\kw}[1]{\textbf{\textcolor{keyword}{#1}}}
+\newcommand{\tech}[1]{\textbf{\textcolor{tech}{#1}}}
 
 \pagestyle{empty}
 \geometry{a4paper, margin=0.5in}
@@ -24,38 +30,38 @@ Software Engineer (Tech Lead) \\
 \end{center}
 
 \section*{PROFESSIONAL SUMMARY}
-Software Engineer with five years of experience and Tech Lead for one year. Specialized in Architectural Patterns applying Scrum and DDD approaches. Leading the development and maintainability of products. Managing communication with stakeholders. Focused on designing and building scalable and highly available systems based on Software Architecture principles, aligned with business objectives to ensure value delivery.
+Software Engineer with five years of experience and Tech Lead for one year. Specialized in Architectural Patterns applying \kw{Scrum} and \kw{DDD} approaches. Leading the development and maintainability of products. Managing communication with stakeholders. Focused on designing and building scalable and highly available systems based on Software Architecture principles, aligned with business objectives to ensure value delivery.
 
 \section*{EXPERIENCE}
 
 \subsection*{DGMX Tech\hfill\textbf{Sep 2024 -- Oct 2025}}
 \subsubsection*{Tech Lead, Full-Stack Engineer (AWS)\hfill Remoto -- México}
 \begin{itemize}[noitemsep, leftmargin=*]
-    \item \textbf{Strategic Vision and Scalability}: Led architectural migration across 3 distinct projects by implementing Domain-Driven Design (DDD), establishing new architectural standards that improved maintainability and laid the foundation for future product expansion
-    \item \textbf{Technical Leadership}: Directed 2 Full Stack teams of 4 developers through multiple project sprints using Scrum, successfully delivering 3 critical products. Owned key architectural and implementation decisions ensuring technical alignment with strategic business plan
+    \item \textbf{Strategic Vision and Scalability}: Led architectural migration across 3 distinct projects by implementing \kw{Domain-Driven Design (DDD)}, establishing new architectural standards that improved maintainability and laid the foundation for future product expansion
+    \item \textbf{Technical Leadership}: Directed 2 \tech{Full Stack} teams of 4 developers through multiple project sprints using \kw{Scrum}, successfully delivering 3 critical products. Owned key architectural and implementation decisions ensuring technical alignment with strategic business plan
     \item \textbf{Stakeholder Management}: Managed expectations and aligned team efforts directly with the objective of penetrating the Northern Mexico delivery app market during 6 months
-    \item \textbf{AWS Cloud Engineering}: Designed, deployed (2 projects) and maintained robust and scalable (3 projects) infrastructure on AWS using CDK. Implemented critical services including VPC, SQS, SNS, Lambda, EC2, RDS, S3 to ensure high availability and operational efficiency
-    \item \textbf{Quality and Talent Acquisition}: Actively contributed to team growth through technical interviews (administered/reviewed 10 technical interviews) and defined development practices improving team's code quality according to DDD principles
-    \item \textbf{Full-Stack Execution}: Developed and optimized customer mobile interface (React Native/Expo) and web app (Vue.js), ensuring intuitive user experience and robust API integration with AWS backend environment
+    \item \textbf{AWS Cloud Engineering}: Designed, deployed (2 projects) and maintained robust and scalable (3 projects) infrastructure on \tech{AWS} using \tech{CDK}. Implemented critical services including \tech{VPC}, \tech{SQS}, \tech{SNS}, \tech{Lambda}, \tech{EC2}, \tech{RDS}, \tech{S3} to ensure high availability and operational efficiency
+    \item \textbf{Quality and Talent Acquisition}: Actively contributed to team growth through technical interviews (administered/reviewed 10 technical interviews) and defined development practices improving team's code quality according to \kw{DDD} principles
+    \item \textbf{Full-Stack Execution}: Developed and optimized customer mobile interface (\tech{React Native}/\tech{Expo}) and web app (\tech{Vue.js}), ensuring intuitive user experience and robust API integration with \tech{AWS} backend environment
 \end{itemize}
 
 \subsection*{Kokonut Company\hfill\textbf{Mar 2023 -- Jul 2024}}
 \subsubsection*{Front-End Developer\hfill Remoto -- México}
 \begin{itemize}[noitemsep, leftmargin=*]
-    \item \textbf{Enterprise Front-End Architecture}: Led development and maintenance of 4 enterprise-level web applications using Angular, React, and Next.js, integrating complex APIs and applying TypeScript's strict typing to ensure code quality and maintainability
-    \item \textbf{Agile Execution and Adaptability}: Successfully delivered 4 critical feature sets within established deadlines by adapting to both Scrum and Waterfall methodologies, demonstrating adaptability and rigorous adherence to deadlines
+    \item \textbf{Enterprise Front-End Architecture}: Led development and maintenance of 4 enterprise-level web applications using \tech{Angular}, \tech{React}, and \tech{Next.js}, integrating complex APIs and applying \tech{TypeScript}'s strict typing to ensure code quality and maintainability
+    \item \textbf{Agile Execution and Adaptability}: Successfully delivered 4 critical feature sets within established deadlines by adapting to both \kw{Scrum} and Waterfall methodologies, demonstrating adaptability and rigorous adherence to deadlines
     \item \textbf{Engineering Practices and Documentation}: Strengthened project clarity by creating essential Use Case documentation, serving as the single source of truth for functional alignment between development and business requirements
     \item \textbf{Stakeholder Communication}: Maintained project transparency by delivering periodic progress presentations (sprint reviews) and provided technical support, managing expectations and proactively proposing continuous improvements
-    \item \textbf{Specialized 3D Implementation}: Engineered and implemented immersive 3D environments within web applications utilizing Three.js, demonstrating capacity for rapid prototyping and hands-on coding for highly specialized requirements
+    \item \textbf{Specialized 3D Implementation}: Engineered and implemented immersive 3D environments within web applications utilizing \tech{Three.js}, demonstrating capacity for rapid prototyping and hands-on coding for highly specialized requirements
 \end{itemize}
 
 \subsection*{Niku\hfill\textbf{Sep 2021 -- Mar 2023}}
 \subsubsection*{Software Engineer (Full-Stack, AWS, React Native)\hfill Remoto -- México}
 \begin{itemize}[noitemsep, leftmargin=*]
-    \item \textbf{Cloud-Native Engineering}: Designed and deployed robust and scalable solutions on AWS, utilizing key services for infrastructure. Developed critical APIs using TypeScript, ensuring system reliability and operational efficiency from the ground up
+    \item \textbf{Cloud-Native Engineering}: Designed and deployed robust and scalable solutions on \tech{AWS}, utilizing key services for infrastructure. Developed critical APIs using \tech{TypeScript}, ensuring system reliability and operational efficiency from the ground up
     \item \textbf{Product Feature Delivery}: Led development of mobile delivery application (food and logistics), directly translating product and business requirements into functional and efficient features
-    \item \textbf{UX/UI Alignment}: Created and maintained UI/UX design mockups in Figma, ensuring that mobile application development maintained high usability and optimized user experience
-    \item \textbf{Quality Practices}: Built RESTful API integrations and managed NPM packages, applying JavaScript/TypeScript to maintain structured development and disciplined workflow with Git/GitHub
+    \item \textbf{UX/UI Alignment}: Created and maintained UI/UX design mockups in \tech{Figma}, ensuring that mobile application development maintained high usability and optimized user experience
+    \item \textbf{Quality Practices}: Built RESTful API integrations and managed \tech{NPM} packages, applying \tech{JavaScript}/\tech{TypeScript} to maintain structured development and disciplined workflow with \tech{Git}/\tech{GitHub}
 \end{itemize}
 
 \section*{EDUCATION}
@@ -65,10 +71,10 @@ Bachelor's Degree in Information Technology \hfill Aug 2017 -- Aug 2022
 
 \section*{CERTIFICATIONS}
 \begin{itemize}[noitemsep, leftmargin=*]
-    \item CQRS: Command Query Responsibility Segregation -- Codely, 2025
-    \item AWS VPC (Virtual Private Cloud) -- AWS, 2025
-    \item Agile Development and Scrum -- IBM/Coursera, 2025
-    \item Ultimate Docker -- HolaMundo, 2025
+    \item \kw{CQRS}: Command Query Responsibility Segregation -- Codely, 2025
+    \item \tech{AWS} \tech{VPC} (Virtual Private Cloud) -- AWS, 2025
+    \item Agile Development and \kw{Scrum} -- IBM/Coursera, 2025
+    \item Ultimate \tech{Docker} -- HolaMundo, 2025
     \item Ultimate Linux -- HolaMundo, 2025
     \item Hexagonal Architecture -- HolaMundo, 2023
     \item Continuous Integration and Continuous Delivery (CI/CD) -- IBM, Ongoing
