@@ -4,42 +4,42 @@
 
 job_description:
 ```txt
-The Role
-We are seeking a Senior Full Stack Developer to join our growing team. This is a high-impact, high-ownership role where you’ll work across the full stack, from backend APIs and infrastructure to frontend interfaces and dashboards. You’ll collaborate closely with the founder and engineers on architecture, scaling, performance, and product delivery.
+## **Job Title:** Senior Full Stack Engineer (Node.js / Python / AWS)
 
-Key Responsibilities:
+**Location:** Remote / Home Office
+**Job Type:** Full-time
 
-Design and build APIs using Python (FastAPI), including database schema management (PostgreSQL) and task queue optimization with Celery
-Architect multi-tenant SaaS features: authentication, data isolation, billing integration
-Develop and maintain complex frontend components using React 19, TypeScript, Tailwind CSS, Zustand
-Integrate AI/LLM providers (e.g., DeepSeek, Claude, OpenAI) into backend pipelines
-Build data dashboards and interactive UIs for ad analysis, scoring, and geographic mapping
-Manage DevOps processes via Docker, GitHub Actions, and AWS infrastructure
-Optimize Celery-based pipelines for high-parallelism and sequencing of LLM calls
-Participate in code reviews, documentation, and technical decisions with the founding team
-Required Skills:
+### **About the Role**
 
-5+ years of professional software development experience
-3+ years working with Python (FastAPI or Django preferred)
-3+ years working with React and TypeScript
-Strong SQL skills (especially PostgreSQL)
-Experience building RESTful APIs and multi-tenant SaaS applications
-Familiarity with Git and CI/CD workflows
-Comfortable communicating in English (written and verbal)
-Available to overlap 4+ hours with US Eastern time (9am-1pm ET or 2pm-6pm ET)
-Strongly Preferred Skills:
+We are looking for an experienced Senior Full Stack Engineer to join our core engineering team. In this role, you will be responsible for designing, building, and maintaining highly scalable, cloud-native web applications. You will sit at the intersection of robust backend architecture and dynamic frontend interfaces, leveraging a modern tech stack centered around **Node.js, Python, and AWS**.
 
-Experience integrating LLMs or AI APIs
-Experience with async Python (asyncio, Celery)
-Experience building multi-tenant SaaS applications
-Redis for caching or background tasks
-Docker and cloud platform experience (AWS or GCP)
-Prior experience in startups or small teams
-Nice-to-have skills:
-Stripe/payment integration
-Data visualization (Recharts, D3, etc.)
-Geographic data (Mapbox, mbtiles, etc.)
-Background in SaaS, AdTech, or political/analytics tooling
+If you have a strong foundation in Domain-Driven Design (DDD), love automating infrastructure, and thrive in agile environments, we want you on our team.
+
+### **Key Responsibilities**
+
+* **Backend Development:** Design, develop, and maintain robust, high-performance RESTful APIs and microservices using **Node.js (TypeScript)** and **Python (FastAPI / Flask / Django)**.
+* **Cloud Architecture:** Architect and deploy scalable cloud infrastructure on **Amazon Web Services (AWS)** using Infrastructure as Code (e.g., AWS CDK, CloudFormation).
+* **Frontend Integration:** Collaborate with frontend engineers to integrate backend services seamlessly with modern SPA frameworks (React, Vue.js).
+* **System Scalability & Reliability:** Optimize application performance, implement caching strategies, and manage database architectures (PostgreSQL, DynamoDB, MongoDB).
+* **DevOps & CI/CD:** Build and maintain automated testing and deployment pipelines (CI/CD) to ensure rapid and safe delivery of code to production.
+* **Technical Leadership:** Act as a technical subject matter expert, mentor junior developers, conduct code reviews, and drive engineering best practices (Clean Architecture, DDD, CQRS).
+
+### **Required Qualifications**
+
+* **Experience:** 5+ years of professional experience in Full Stack or Backend Software Engineering.
+* **Languages:** Expert-level proficiency in **JavaScript/TypeScript** and **Python**.
+* **Backend Frameworks:** Hands-on experience with Node.js (Express, NestJS) and Python frameworks.
+* **Cloud Platform (AWS):** Deep knowledge of AWS services, including EC2, S3, Lambda, API Gateway, SQS, SNS, and IAM.
+* **Databases:** Strong experience with relational databases (SQL) and NoSQL solutions.
+* **Methodologies:** Proven experience working in Agile/Scrum environments and applying Software Architecture patterns (Hexagonal Architecture, Microservices).
+* **Language Skills:** Conversational English (B2 or higher) for effective communication with cross-functional, global teams.
+
+### **Preferred Qualifications (Bonus)**
+
+* Experience serving as a Tech Lead or managing small engineering squads.
+* Background in AI Engineering, LLMOps, or integrating Generative AI models (AWS Bedrock) into production environments.
+* Experience with frontend technologies like Vue.js or React Native.
+
 ```
 
 1. read the [job_description]

@@ -1,0 +1,90 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\definecolor{keyword}{RGB}{43,43,43}
+\definecolor{tech}{RGB}{43,43,43}
+\color[RGB]{43,43,43}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{titlesec}
+
+\newcommand{\kw}[1]{\textbf{\textcolor{keyword}{#1}}}
+\newcommand{\tech}[1]{\textbf{\textcolor{tech}{#1}}}
+
+\pagestyle{empty}
+\geometry{a4paper, margin=0.5in}
+
+\titleformat{\section}{\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{6pt}{6pt}
+\titleformat{\subsubsection}{\itshape}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titlespacing{\subsubsection}{0pt}{3pt}{3pt}
+\titlespacing{\subsection}{0pt}{0pt}{0pt}
+
+\begin{document}
+
+\begin{center}
+{\bfseries\LARGE Jose Carlos Huerta Garcia} \\
+Senior Full Stack Developer \\
+(+52) 221 227 2775 | carlosj12336@gmail.com | \href{https://github.com/jcarloshg}{GitHub} | \href{https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212}{LinkedIn}
+\end{center}
+
+\section*{PROFESSIONAL SUMMARY}
+\tech{Senior Full Stack Developer} with 5+ years of experience building scalable, production-ready applications. Specialized in \kw{Python} backends (\tech{FastAPI}) and modern \tech{React} frontends with \tech{TypeScript}. Proven experience delivering \kw{RESTful APIs}, \kw{multi-tenant SaaS} architectures, and cloud-native solutions on \tech{AWS}. Hands-on experience integrating \kw{AI/LLM providers} and building data-intensive dashboards. Ready to contribute from day one in a high-impact, high-ownership role. Able to overlap 4+ hours with US Eastern Time.
+
+\section*{EXPERIENCE}
+
+\subsection*{DGMX Tech\hfill\textbf{Sep 2024 -- Present}}
+\subsubsection*{Tech Lead, Full-Stack Engineer (AWS)\hfill Remote -- México}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Architected Multi-Tenant SaaS Solutions}: Led migration of 3 projects to \kw{multi-tenant} architecture using \kw{Domain-Driven Design (DDD)}, implementing \kw{data isolation} patterns and \kw{authentication}, improving maintainability by 60\%
+    \item \textbf{Built RESTful APIs with Python}: Developed scalable APIs using \tech{Python} and \tech{FastAPI}, handling 10K+ requests/day with \kw{PostgreSQL} and \tech{Redis} caching
+    \item \textbf{Developed Full-Stack Applications}: Created customer-facing mobile app (\tech{React Native}/\tech{Expo}) and web dashboard (\tech{Vue.js}), integrating with \tech{AWS} backend services
+    \item \textbf{Cloud Infrastructure on AWS}: Designed and deployed infrastructure using \tech{CDK} (VPC, SQS, SNS, Lambda, EC2, RDS, S3), ensuring 99.9\% availability
+    \item \textbf{Led Technical Teams}: Directed 2 full-stack teams of 4 developers through \kw{Scrum} sprints, delivering 3 critical products on time
+    \item \textbf{Implemented CI/CD Pipelines}: Established automated deployment pipelines using \tech{GitHub Actions}, reducing deployment time by 50\%
+\end{itemize}
+
+\subsection*{Kokonut Company\hfill\textbf{Mar 2023 -- Jul 2024}}
+\subsubsection*{Front-End Developer\hfill Remote -- México}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Built Enterprise Web Applications}: Developed and maintained 4 enterprise applications using \tech{React}, \tech{Angular}, and \tech{Next.js} with strict \tech{TypeScript}, reducing production bugs by 40\%
+    \item \textbf{Created Data Dashboards}: Built interactive analytics dashboards with real-time data visualization, improving decision-making speed by 35\%
+    \item \textbf{Implemented State Management}: Utilized modern state management patterns, optimizing component re-renders and improving UX
+    \item \textbf{Integrated Third-Party APIs}: Connected complex APIs from multiple providers, ensuring seamless data flow and 99.5\% uptime
+    \item \textbf{Developed 3D Visualizations}: Engineered immersive \tech{Three.js} environments for web applications, increasing user engagement by 60\%
+    \item \textbf{Delivered On Time in Agile}: Completed 4 critical features within deadlines using \kw{Scrum} and Waterfall methodologies
+\end{itemize}
+
+\subsection*{Niku\hfill\textbf{Sep 2021 -- Mar 2023}}
+\subsubsection*{Software Engineer (Full-Stack, AWS)\hfill Remote -- México}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Designed Cloud-Native Solutions}: Built scalable systems on \tech{AWS} using Lambda, API Gateway, and \tech{RDS}, supporting 50K+ daily users
+    \item \textbf{Developed RESTful APIs}: Created robust APIs with \tech{TypeScript} and \tech{Node.js}, ensuring high performance and reliability
+    \item \textbf{Built Mobile Applications}: Developed delivery app (\tech{React Native}) for food and logistics, translating business requirements into functional features
+    \item \textbf{UI/UX Implementation}: Created design mockups in \tech{Figma}, ensuring high usability and optimized user experience
+    \item \textbf{Quality Engineering}: Applied \tech{JavaScript}/\tech{TypeScript} best practices with structured development and \tech{Git}/\tech{GitHub} workflows
+\end{itemize}
+
+\section*{EDUCATION}
+
+\subsection*{Benemerita Universidad Autonoma de Puebla}
+Bachelor's Degree in Information Technology \hfill Aug 2017 -- Aug 2022
+
+\section*{CERTIFICATIONS}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \kw{CQRS}: Command Query Responsibility Segregation -- Codely, 2025
+    \item \tech{AWS} VPC (Virtual Private Cloud) -- AWS, 2025
+    \item Agile Development and \kw{Scrum} -- IBM/Coursera, 2025
+    \item Ultimate \tech{Docker} -- HolaMundo, 2025
+    \item Ultimate Linux -- HolaMundo, 2025
+    \item Hexagonal Architecture -- HolaMundo, 2023
+    \item Continuous Integration and Continuous Delivery (CI/CD) -- IBM
+    \item Introduction to Data Science Specialization -- IBM
+\end{itemize}
+
+\section*{LANGUAGES}
+Spanish (Native), English (B1 -- TOEFL ITP 453 points, Mar 2025)
+
+\end{document}
