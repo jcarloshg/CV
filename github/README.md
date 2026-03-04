@@ -47,7 +47,7 @@ The following technical skills are showcased throughout the portfolio projects:
 
 #### Frameworks & Libraries
 
-- **Back-End:** ☕ Spring Boot, 🟦 NestJS, ⚡ Express.js, 🟩 FastAPI
+- **Back-End:** ☕ Spring Boot, ☕ Quarkus, 🟦 NestJS, ⚡ Express.js, 🟩 FastAPI
 - **Front-End:** ⚛️ React, 🅰️ Angular, ⏭️ Next.js
 - **Mobile:** 📱 React Native, 🚀 Expo, 🦋 Flutter
 - **Data Science:** 📓 Jupyter Notebooks, 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn, 🔗 LangChain
@@ -76,7 +76,7 @@ The following technical skills are showcased throughout the portfolio projects:
 #### Testing & Quality
 
 - **Testing Types:** 🧪 Unit, 🔗 Integration, 🧪 End-to-End, ✅ Acceptance
-- **Frameworks:** 🧪 Pytest, 🧪 JUnit, 🧪 Jest
+- **Frameworks:** 🧪 Pytest, 🧪 JUnit, 🧪 k, 🧪 Jest
 - **Practices:** ❤️‍🩹 Health Checks
 
 #### Other Tools & Ecosystem

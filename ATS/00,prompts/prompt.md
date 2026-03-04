@@ -2,70 +2,74 @@
 
 ## Inputs
 
-job_description:
+- ROLE_NAME: Full-Stack
+
+- job_description:
 
 ```txt
-Role Overview
-We are hiring experienced Software Engineers (Python-focused) to support high-impact research collaborations with leading AI labs.
+Developer with these technical skills:
 
-In this project-based engagement, you will contribute to building training datasets that improve AI model reasoning and problem-solving across real-world coding tasks.
+## 🛠️ Skills
 
-This is a unique opportunity to apply your software engineering expertise toward shaping the next generation of intelligent systems.
+The following technical skills are showcased throughout the portfolio projects:
 
-About the Project
-You will work on SWE-bench–style tasks derived from real open-source repositories.
+#### Programming Languages
 
-Since frontier AI models do not expose their internal reasoning traces, your role will involve:
+- 🟦 **TypeScript**, 🟨 **JavaScript**, 🟩 **Python**, ☕ **Java**, 🐘 **SQL**, 💻 **C++**, 💻 **C**, 🟪 **C#**, 🖥️ **Bash/Zsh**
 
-Reconstructing model reasoning
+#### Frameworks & Libraries
 
-Annotating solution trajectories
+- **Back-End:** ☕ Spring Boot, ☕ Quarkus, 🟦 NestJS, ⚡ Express.js, 🟩 FastAPI
+- **Front-End:** ⚛️ React, 🅰️ Angular, ⏭️ Next.js
+- **Mobile:** 📱 React Native, 🚀 Expo, 🦋 Flutter
+- **Data Science:** 📓 Jupyter Notebooks, 🐼 Pandas, 🔢 NumPy, 📊 Matplotlib, 📈 Seaborn, 🤖 Scikit-learn, 🔗 LangChain
+- **UI & Utilities:** 🌈 TailwindCSS, 🧊 Three.js, 🟧 TanStack
 
-Inferring thought processes behind debugging and implementation steps
+#### Architectural Patterns
 
-You will use your own developer problem-solving approach to reconstruct and annotate realistic reasoning flows.
+- 🏗️ **CQRS**, 🛑 **Domain-Driven Design (DDD)**, 🏗️ **Clean Architecture**, 🛡️ **Hexagonal Architecture**, 🧩 **Microservices**, 🔄 **Event-Driven Architecture**, 🖱️ **Criteria Pattern**
 
-Key Responsibilities
-Review model-generated code trajectories on realistic software engineering tasks
+#### Databases & Persistence
 
-Reconstruct step-by-step chain-of-thought reasoning
+- **Relational:** 🐘 PostgreSQL, 🐬 MySQL, 🗄️ SQLite
+- **NoSQL:** 🍃 MongoDB, ☁️ DynamoDB
+- **ORMs:** 🔌 Prisma, 🛡️ JPA, 🟦 Spring Data JDBC/JPA
 
-Annotate debugging logic, decision points, and problem-solving strategies
+#### DevOps & Infrastructure
 
-Use full context (codebase, issues, test cases) to infer plausible reasoning
+- **Containers:** 🐳 Docker, 🐳 Docker Compose, ☸️ Kubernetes
+- **Cloud:** ☁️ AWS (🛠️ CDK, 🏗️ CloudFormation, 🌐 VPC, ⚖️ ELB, 🔄 ASG, 🦾 Lambda, 🌍 Route 53, 🛡️ Cognito, 🔒 Secrets Manager, 🔗 CodePipeline, 📬 SQS, 📢 SNS, 👤 IAM, 🖥️ EC2, 🐘 RDS, 🗂️ S3, 💻 CLI, 🪨 Bedrock)
+- **CI/CD:** 🤖 GitHub Actions, 🛠️ Tekton, 🔄 CI/CD pipelines
 
-Ensure technical accuracy and alignment with real-world developer workflows
+#### Messaging & Integration
 
-Required Qualifications
-2+ years of hands-on software engineering experience
+- 🦄 **Apache Kafka**, 🌐 **WebSocket**, 🔗 **REST API**, 🔌 **TCP Microservices**, 📨 **Message Patterns**
 
-Strong debugging experience in real codebases
+#### Testing & Quality
 
-Proficiency in Python (primary)
+- **Testing Types:** 🧪 Unit, 🔗 Integration, 🧪 End-to-End, ✅ Acceptance
+- **Frameworks:** 🧪 Pytest, 🧪 JUnit, 🧪 k, 🧪 Jest
+- **Practices:** ❤️‍🩹 Health Checks
 
-Familiarity with JavaScript / TypeScript or other open-source languages (preferred)
+#### Other Tools & Ecosystem
 
-Experience with Git workflows (PRs, issue tracking)
+- **Version Control:** 🐙 Git, 🐱 GitHub, 🦑 Bitbucket
+- **Design & Productivity:** 🎨 Figma, 📦 NPM, 🔄 Nodemon, 🛡️ Zod, 🔄 MapStruct, 🍃 Lombok, 🔒 CORS, 💡 Lucide React
 
-Ability to articulate technical reasoning clearly in writing
+#### AI Engineering
 
-Bachelor’s degree in CS, Software Engineering, or related field
+- 🔗 **LangChain Ecosystem:** 🦜🔗 LangChain, 🌍 LangChain Community, 🧠 LangChain Core, 🦙 LangChain Ollama
+- 📚 **RAG (Retrieval-Augmented Generation):** Vector Databases, Embeddings, Chunking Strategies
+- 🪨 **AWS Bedrock:** Claude, Llama
+- ⚙️ **LLMOps:** Prompt Engineering, Model Fine-tuning, Evaluation Metrics
+- 📈 **MLOps & Experiment Tracking:** MLflow, Model Registry, Experiment Tracking
+- 🦙 **Ollama:** Local LLM Deployment, Model Management
 
-Ideal Candidate
-Strong analytical thinker
+#### Data Science & Analytics
 
-Comfortable explaining technical reasoning
+- **Techniques:** 🤖 Machine Learning (📉 Regression, 🌳 Decision Trees, 🌲 Random Forests, 🧩 K-Means, 🌀 PCA, 🧠 Autoencoders)
+- 🧹 Data Cleaning, 🗃️ DataFrames, 🕒 Time Series Analysis
 
-Detail-oriented and methodical
-
-Familiar with open-source contribution workflows
-
-Interested in AI and LLM research
-
-Application Process
-1 Upload your resume
-2 Complete a short 15-minute AI interview
-3 Selected candidates receive onboarding details within a few days
 ```
 
 ## Run the follow steps
