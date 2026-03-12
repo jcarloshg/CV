@@ -1,8 +1,8 @@
 ### 1. Direct Answer: El Top 5 de SQL Analítico
 
 - **Window Functions (`OVER`, `PARTITION BY`):** Para realizar cálculos complejos (rankings, promedios móviles, diferencias entre filas) sin colapsar el performance con self-joins.
-- **Common Table Expressions (CTEs):** Para escribir código modular, legible y jerárquico. Olvida los sub-selects anidados.
 - **Estrategias de Agregación y Pivot:** Dominar `GROUP BY`, `HAVING` y transformar filas en columnas (y viceversa) para reportes.
+- **Common Table Expressions (CTEs):** Para escribir código modular, legible y jerárquico. Olvida los sub-selects anidados.
 - **Cualificación de Datos y Deduplicación:** Técnicas para limpiar datos sucios, como usar `ROW_NUMBER()` para eliminar registros duplicados de una ingesta.
 - **Optimización Columnar:** Entender cómo funcionan los índices, las particiones (`PARTITION BY`) y el clustering en bases de datos como BigQuery o Snowflake.
 
