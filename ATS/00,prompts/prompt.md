@@ -7,48 +7,51 @@
 - job_description:
 
 ```txt
-Sobre la posición ✨
+About Curotec
+We are a globally leading software services company specializing in developing enterprise-level projects for clients worldwide.
+Our team is a unique blend of diverse skill sets, cultures, and backgrounds—a true melting pot of talent. One of the most rewarding aspects of working at Curotec is the opportunity to learn something new every day, not just about technology but also about our amazing team members.
+Visit our website to discover more about who we are and what we do.
 
-Te encargaras de Diseñar, construir y mantener sistemas backend robustos, escalables y de alta disponibilidad que soporten la operación de más de 3,000 restaurantes en México y LATAM, garantizando calidad, rendimiento y confiabilidad del software que es el corazón del negocio de nuestros clientes.
+We are looking for highly skilled remote developers with experience building complex business applications using the Laravel and React frameworks.
 
-Buscamos a alguien ubicado en CDMX o Monterrey. 
+This is a remote position.
 
+Job requirements
+Experience
 
+Experience with Laravel/ReactJS.
 
-Cada persona que forma parte de Parrot es el ingrediente preciso para aportar, diseñar y desarrollar soluciones nuevas y diferentes; eso sí, lo que nos hace a todos iguales, sin excepción, es que nos enfocamos en dar un servicio increíble. Somos el #Parrotflock 🦜✨
+Experience with custom application development.
 
+Must be able to speak and write fluent English.
 
+Must be dedicated, passionate, and hard-working. Attitude is everything.
 
-Responsabilidades 💪🏼
+Must be able to work with a team and collaborate remotely. Hard workers and self-starters, please apply.
 
- Desarrollar y mantener APIs REST escalables para manejar grandes volúmenes de tráfico con eficiencia y seguridad.
-Diseñar y evolucionar componentes de arquitectura backend, documentando decisiones técnicas y promoviendo buenas prácticas.
-Mantener sistemas en tiempo real con alta disponibilidad, asegurando monitoreo proactivo y respuesta ágil ante incidentes.
-Implementar pruebas unitarias, de integración y de carga para garantizar estabilidad en producción.
-Optimizar acceso a datos con ORMs y consultas SQL avanzadas, aplicando performance tuning y patrones de diseño.
-Colaborar con otros squads (frontend, infra, producto) para entregar soluciones end-to-end.
-Participar en code reviews aportando feedback constructivo y elevando el estándar técnico del equipo.
+We are looking for a creative and efficient problem solver.
 
+Technical Skills
 
-Habilidades ⚒️
+Experience with PHP, Laravel, and ReactJS
 
-Python 3.x con Django 3.x+ (mínimo 3 años). TypeScript (mínimo 2 años). go es un plus.
-APIs REST: diseño, seguridad, versionado y eficiencia.
-Bases de datos relacionales: PostgreSQL/MySQL — modelado, normalización, query optimization.
-ORMs (Django ORM, SQLAlchemy) y patrones de acceso a datos eficientes.
-NoSQL básico (Redis, MongoDB): criterio para saber cuándo aplicar.
-Microservicios y sistemas distribuidos: colas de mensajería (Celery, RabbitMQ, Kafka).
-Git, CI/CD, Docker.
-Testing: unitario, integración y carga.
+Experience with OAuth and JWT Tokens is a plus.
 
+Advanced Laravel Experience (Middleware, Collections, Policies, Request, Resources, and Service Containers).
 
-Nice to have... 👀 🔎
+Experience with software testing, TDD, and unit testing (PHPUnit, PHPSpec, Behat).
 
-Experiencia con sistemas de pagos o fintech (Kushki, Stripe, Conekta).
-Herramientas de observabilidad: Datadog, Sentry, Grafana.
-Entornos de alta concurrencia o tiempo real.
-Cloud (AWS/GCP) y arquitecturas serverless.
-Integraciones con delivery apps (UberEats, Rappi, DiDi Food).
+Experience with MySQL profiling and query optimization.
+
+Solid working experience building RESTful APIs.
+
+Active experience integrating custom code with 3rd party web services.
+
+Have performed complicated data migrations.
+
+Hands-on experience with tools such as Git and Jira.
+
+Experience working within Agile development environments.
 ```
 
 ## Run the follow steps
