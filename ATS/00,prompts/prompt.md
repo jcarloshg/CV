@@ -2,46 +2,54 @@
 
 ## Inputs
 
-- ROLE_NAME: Senior Front-End Engineer
+- ROLE_NAME: Desarrollador Angular Sr
 
 - job_description:
 
 ```txt
-Job requirements
-Technical Skills:
+Descripción
 
-5+ years of experience with Vue.js, NuxtJS
+¡En Lumina Software tenemos una oportunidad laboral para ti!
 
-Experience with React is a huge plus
+Si cumples con los requisitos, no dudes en postularte y adjuntar tu CV actualizado.
 
-Full-stack experience a huge plus, specifically with Laravel
 
-5+ years of experience working with REST API web services
 
-Experience with headless CMS and headless WordPress is a huge plus
+Perfil: Desarrollador Angular Sr - Especialista en Design Systems
 
-Must have advanced knowledge of browsers e.g. the DOM, canvas, asynchrony, and web security
 
-Full-stack experience is a huge plus
 
-Must have experience with HTML5 and CSS3
+Requerido:
 
-Must be able to take wireframes and deliver Vue.js code that meets enterprise standards
+Profesionista en Ingeniería de Software, TI o similar.
 
-Experience with mobile and responsive is a must
+5+ años de experiencia en desarrollo con Angular y 2+ años en construcción de componentes de Design Systems.
 
-Experience with real-time communication (web sockets) is a plus
+Experiencia en:
 
-Experience with a DevOps culture is a plus
+Construcción de librerías de componentes escalables alineadas a sistemas de diseño (Design Systems).
+Transformación de especificaciones de Figma a código.
+Implementación de estándares de accesibilidad (WCAG).
+Pruebas unitarias y Testing de componentes.
+Manejo de patrones de diseño frontend y optimización de performance.
+Metodologías ágiles.
+Conocimientos:
 
-Must have a strong passion for learning
+Angular (avanzado).
+TypeScript, HTML5 y CSS3 (Sass/Less).
+Manejo de?Figma?(como herramienta de diseño y handoff).
+Git (control de versiones).
+Habilidades:
 
-Must have great communication skills to work with stakeholders
+Liderazgo técnico y Comunicación transversal.
+Pensamiento sistémico.
+Trabajo en equipo y colaboración.
 
-Comfortable with Git and SCM
 
-Must have a strong work ethic
+Deseable:
 
+Experiencia en la evolución de catálogos oficiales de componentes institucionales.
+Experiencia en documentación técnica estructurada para desarrolladores.
 
 ```
 
