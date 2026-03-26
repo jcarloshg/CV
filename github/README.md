@@ -322,7 +322,6 @@ A repository dedicated to exploring and testing various SQL features and functio
 - [Architectura Hexagonal](https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications/1758852008410/single-media-viewer/?profileId=ACoAADXjsscBqtjtdk4S_qpdkHwZsFn9y9TiG0o) HolaMundo, April 2023
 - Design and Analysis of Algorithms | BUAP, July 2025
 - Design Patterns in Java and PHP | BUAP, July 2025
-
 - [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/programs/knu-high-o3k80/learn/continuous-integration-and-continuous-delivery-ci-cd?source=search) IBM, Ongoing.
 - [OKR Certification: Leadership and Goal Setting](https://www.coursera.org/learn/okr) Measure What Matters, Ongoing.
 - [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) IBM, Ongoing.

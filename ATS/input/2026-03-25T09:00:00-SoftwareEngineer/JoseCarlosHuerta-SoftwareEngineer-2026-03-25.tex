@@ -1,0 +1,84 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\definecolor{keyword}{RGB}{43,43,43}
+\definecolor{tech}{RGB}{43,43,43}
+\color[RGB]{43,43,43}
+\usepackage{hyperref}
+\usepackage{fontenc}
+\usepackage{titlesec}
+
+\newcommand{\kw}[1]{\textbf{\textcolor{keyword}{#1}}}
+\newcommand{\tech}[1]{\textbf{\textcolor{tech}{#1}}}
+
+\pagestyle{empty}
+\geometry{a4paper, margin=0.5in}
+
+\titleformat{\section}{\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{6pt}{6pt}
+\titleformat{\subsubsection}{\itshape}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titlespacing{\subsubsection}{0pt}{3pt}{3pt}
+\titlespacing{\subsection}{0pt}{0pt}{0pt}
+
+\begin{document}
+
+\begin{center}
+{\bfseries\LARGE Jose Carlos Huerta Garcia} \\
+Software Engineer | Tech Lead \\
+(+52) 221 227 2775 | carlosj12336@gmail.com | \href{https://github.com/jcarloshg}{GitHub} | \href{https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212}{LinkedIn}
+\end{center}
+
+\section*{PROFESSIONAL SUMMARY}
+\kw{Software Engineer} with 5+ and \kw{Tech Lead } with 1 years of experience designing, building, and scaling production-ready cloud-native applications using \kw{Java (Spring Boot)}, \kw{Node.js (TypeScript)}, \kw{Python (FastAPI)}, and \kw{AWS}. Specialized in \kw{Microservices Architecture}, \kw{Relational Databases}, and \kw{OAuth2/JWT} security implementations. Led architectural migration of 3 projects applying \kw{DDD} and \kw{Clean Architecture}, improving maintainability by 60\%.
+
+\section*{EXPERIENCE}
+
+\subsection*{\small DGMX Tech\hfill\textbf{Sep 2024 -- Oct 2025}}
+\subsubsection*{\small Tech Lead, Full-Stack Engineer (AWS)\hfill Remote -- Mexico}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Architected Cloud-Native Solutions}: Guided migration of 3 legacy projects to scalable microservices using \kw{DDD} and \kw{Clean Architecture}, improving maintainability by 60\% and reducing technical debt by 40\%.
+    \item \textbf{Developed Java Backend}: Built production-ready APIs with \tech{Java 17 (Spring Boot)}, implementing \tech{Maven} build management, applying \tech{JUnit} and \tech{Mockito} for unit testing with 85\% code coverage.
+    \item \textbf{Implemented Security}: Designed and integrated \kw{OAuth2} and \kw{JWT} authentication flows, securing APIs for 3K+ daily users.
+    \item \textbf{Provisioned AWS Infrastructure}: Architected and deployed cloud infrastructure using \tech{AWS CDK} (EC2, S3, Lambda, API Gateway, SQS, SNS, IAM, VPC), reducing infrastructure costs by 30\%.
+    \item \textbf{Quality Assurance}: Enforced \tech{SonarQube} code quality gates, establishing CI/CD pipelines with \tech{GitHub Actions}, reducing critical bugs by 40\%.
+    \item \textbf{Managed Stakeholders}: Oversaw expectations and aligned technical roadmap, contributing to 25\% market penetration in Northern Mexico delivery app sector over 6 months.
+    \item \textbf{Mentored Teams}: Directed 2 full-stack teams of 8 developers through \kw{Scrum} sprints, conducting 50+ code reviews and mentoring sessions.
+\end{itemize}
+
+\subsection*{\small Kokonut Company\hfill\textbf{Mar 2023 -- Jul 2024}}
+\subsubsection*{\small Front-End Developer\hfill Remote -- Mexico}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Created Enterprise Web Applications}: Enhanced and maintained 4 enterprise applications using \tech{React}, \tech{Angular}, \tech{Next.js}, and \tech{Vue.js} with strict \tech{TypeScript}, reducing production bugs by 40\%.
+    \item \textbf{Applied MVC Pattern}: Implemented \kw{MVC} architecture in backend services using \tech{Node.js}, separating concerns for maintainability and testability.
+    \item \textbf{Optimized Database Performance}: Constructed \kw{PostgreSQL} and \kw{MongoDB} databases, writing complex \kw{stored procedures} and optimizing queries, improving response time by 50\%.
+    \item \textbf{Executed Agile Delivery}: Presented 4 critical features within deadlines using \kw{Scrum} methodology, achieving 100\% sprint completion rate.
+\end{itemize}
+
+\subsection*{\small Niku\hfill\textbf{Sep 2021 -- Mar 2023}}
+\subsubsection*{\small Software Engineer (Full-Stack, AWS)\hfill Remote -- Mexico}
+\begin{itemize}[noitemsep, leftmargin=*]
+    \item \textbf{Designed Scalable Systems}: Architected cloud-native solutions on \tech{AWS} (Lambda, API Gateway, RDS, DynamoDB), supporting 1K+ daily users with 99.9\% uptime.
+    \item \textbf{Built Java Applications}: Developed robust APIs with \tech{Java (Spring Boot)} using \tech{Maven}, implementing \tech{JUnit} testing and \tech{MVC} pattern.
+    \item \textbf{Integrated Message Queues}: Implemented \tech{RabbitMQ} for asynchronous messaging, decoupling services and improving system resilience.
+    \item \textbf{Applied Version Control}: Enforced disciplined workflows with \tech{Git}/\tech{GitHub}, applying code review processes that reduced merge conflicts by 60\%.
+    \item \textbf{Built Mobile Applications}: Constructed production-ready delivery apps (\tech{React Native}) for food and logistics, achieving 4.5+ star user rating.
+\end{itemize}
+
+\section*{EDUCATION}
+
+\subsection*{\small Benemerita Universidad Autonoma de Puebla}
+Bachelor's Degree in Information Technology \hfill Aug 2017 -- Aug 2022
+
+\section*{LANGUAGES}
+Spanish (Native), English (Conversational B2 -- TOEFL ITP 453 points, Mar 2025)
+
+\section*{CERTIFICATIONS}
+AWS Certified Data Engineer Associate -- March 2026 (Ongoing)
+\hyperlink{https://coursera.org/verify/HEG7YFDO6D1C}{Generative AI Applications with Amazon Bedrock} -- Coursera, March 2026
+AWS Certified Data Engineer - Associate -- Udemy, March 2026 (Ongoing)
+\hyperlink{https://www.linkedin.com/in/jose-carlos-huerta-garcia-773952212/details/certifications}{CQRS: Command Query Responsibility Segregation} -- Codely, October 2025
+\hyperlink{https://academia.holamundo.io/certificates/fifvbfywmp}{Ultimate Docker} -- HolaMundo, July 2025
+\hyperlink{https://www.coursera.org/programs/knu-high-o3k80/learn/continuous-integration-and-continuous-delivery-ci-cd?source=search}{Continuous Integration and Continuous Delivery (CI/CD)} -- IBM, Ongoing
+\end{document}

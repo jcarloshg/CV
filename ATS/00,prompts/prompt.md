@@ -7,18 +7,25 @@
 - job_description:
 
 ```txt
-En Skala trabajamos con una empresa de tecnología de pagos del sector Fintech en la búsqueda de un/a Software Engineer especializado en Visa Card Issuing
+Requisitos del puesto
 
-El rol tiene como obietivo liderar el desarrollo e implementación de la solución de emisión de tarietas Visa dentro de una plataforma de pagos en crecimiento.
 
- Lo que buscamos:
--> Experiencia experta en Visa Card Issuing
 
--> Dominio de C# y C++
+Estudios universitarios completos en el área de sistemas o afín.
+Experiencia comprobada en desarrollo de software con enfoque en Java y Quarkus.
+Conocimientos sólidos en programación y diseño de aplicaciones.
 
--> Trabajo en equipos ágiles bajo metodología Scrum
 
---> Inglés intermedio o superior
+
+
+Responsabilidades del puesto
+
+
+
+Desarrollar aplicaciones y plataformas utilizando Java y Quarkus.
+Colaborar en la definición de arquitectura de software y diseño de soluciones.
+Realizar pruebas unitarias y de integración.
+Participar en reuniones de seguimiento de proyectos y presentar avances.
 ```
 
 ## Run the follow steps
