@@ -7,25 +7,20 @@
 - job_description:
 
 ```txt
-Requisitos del puesto
+Requisitos
 
+Doctorado en Matemáticas, Física o área afín (INDISPENSABLE)
+Experiencia en el uso de Python
+Nivel de inglés intermedio-avanzado
+Experiencia en desarrollo de algoritmos, modelado matemático o simulaciones
+Capacidad de trabajo autónomo en entorno remoto
+Pensamiento lógico y habilidades para resolución de problemas complejos
+Responsabilidades
 
-
-Estudios universitarios completos en el área de sistemas o afín.
-Experiencia comprobada en desarrollo de software con enfoque en Java y Quarkus.
-Conocimientos sólidos en programación y diseño de aplicaciones.
-
-
-
-
-Responsabilidades del puesto
-
-
-
-Desarrollar aplicaciones y plataformas utilizando Java y Quarkus.
-Colaborar en la definición de arquitectura de software y diseño de soluciones.
-Realizar pruebas unitarias y de integración.
-Participar en reuniones de seguimiento de proyectos y presentar avances.
+Desarrollo y optimización de código en Python
+Implementación de modelos matemáticos o físicos
+Generación de soluciones computacionales
+Colaboración con equipos multidisciplinarios
 ```
 
 ## Run the follow steps
